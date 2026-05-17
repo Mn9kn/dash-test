@@ -1,0 +1,20 @@
+.leaflet-interactive.highlight-animated {
+    stroke-dasharray: 5;
+    animation: dash-pulse 2s ease-out forwards;
+  }
+  
+  @keyframes dash-pulse {
+    0% {
+      stroke-width: 4;
+      stroke: #004990;
+    }
+    50% {
+      stroke-width: 8;
+      stroke: #00aaff;
+    }
+    100% {
+      stroke-width: 4;
+      stroke: #004990;
+    }
+  }
+  

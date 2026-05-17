@@ -1,0 +1,2 @@
+FoLDashboard/Data.json filter=lfs diff=lfs merge=lfs -text
+FoLDashboard/public/Restaurants.json filter=lfs diff=lfs merge=lfs -text

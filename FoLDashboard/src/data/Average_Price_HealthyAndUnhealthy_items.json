@@ -1,0 +1,10 @@
+﻿[
+  {
+    "is_Healthy": "Unhealthy",
+    "Average_Price": 28.2
+  },
+  {
+    "is_Healthy": "Healthy",
+    "Average_Price": 23.2
+  }
+]

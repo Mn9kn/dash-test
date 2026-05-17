@@ -1,0 +1,361 @@
+{
+    "NeighborhoodName": "Al Amaaria",
+    "Restaurants": [
+        {
+            "RestaurantName": "Dunkin",
+            "MenuItems": [
+                {
+                    "ItemID": 47717,
+                    "ItemName": "Original Coffee",
+                    "Category": "Drink",
+                    "Portion_Category": "Individual",
+                    "Calories": 14,
+                    "Price": 9.0,
+                    "Description": null
+                },
+                {
+                    "ItemID": 47717,
+                    "ItemName": "Chocolate Coffee Squares",
+                    "Category": "Dessert",
+                    "Portion_Category": "Individual",
+                    "Calories": 180,
+                    "Price": 8.0,
+                    "Description": null
+                },
+                {
+                    "ItemID": 47717,
+                    "ItemName": "Rice Crispy Donut",
+                    "Category": "Dessert",
+                    "Portion_Category": "Individual",
+                    "Calories": 190,
+                    "Price": 8.0,
+                    "Description": null
+                },
+                {
+                    "ItemID": 47717,
+                    "ItemName": "Labneh Pesto Toast",
+                    "Category": "Main",
+                    "Portion_Category": "Individual",
+                    "Calories": 334,
+                    "Price": 11.0,
+                    "Description": "A buttery toast made to taste best with the great taste and combination of labneh and pesto sauce"
+                },
+                {
+                    "ItemID": 47717,
+                    "ItemName": "Labneh Honey Toast",
+                    "Category": "Dessert",
+                    "Portion_Category": "Individual",
+                    "Calories": 306,
+                    "Price": 11.0,
+                    "Description": "A buttery toast made to taste best with the great taste and combination of labneh and honey filling"
+                },
+                {
+                    "ItemID": 47717,
+                    "ItemName": "Big N Toasty Egg N Cheese",
+                    "Category": "Main",
+                    "Portion_Category": "Individual",
+                    "Calories": 306,
+                    "Price": 14.0,
+                    "Description": "\"a buttery toast made to taste the best with the heavenly combination of egg & cheese\""
+                },
+                {
+                    "ItemID": 47717,
+                    "ItemName": "Big N Toasty Chicken",
+                    "Category": "Main",
+                    "Portion_Category": "Individual",
+                    "Calories": 365,
+                    "Price": 17.0,
+                    "Description": "\"a buttery toast made to taste the best with the heavenly combination of chicken ,egg & cheese\""
+                },
+                {
+                    "ItemID": 47717,
+                    "ItemName": "Xtreme Egg Toasty",
+                    "Category": "Main",
+                    "Portion_Category": "Individual",
+                    "Calories": 515,
+                    "Price": 14.0,
+                    "Description": "A buttery toast made to taste best with the great taste and combination of oven cooked egg drizzle with mayonnaise & chipotle sauce"
+                },
+                {
+                    "ItemID": 47717,
+                    "ItemName": "Chocolate Croissant",
+                    "Category": "Dessert",
+                    "Portion_Category": "Individual",
+                    "Calories": 252,
+                    "Price": 9.0,
+                    "Description": null
+                },
+                {
+                    "ItemID": 47717,
+                    "ItemName": "Maple Pecan Croissant",
+                    "Category": "Dessert",
+                    "Portion_Category": "Individual",
+                    "Calories": 310,
+                    "Price": 9.0,
+                    "Description": null
+                },
+                {
+                    "ItemID": 47717,
+                    "ItemName": "Chesse Croissant",
+                    "Category": "Main",
+                    "Portion_Category": "Individual",
+                    "Calories": 410,
+                    "Price": 9.0,
+                    "Description": "Itâ€™s a french crescent-shape roll made of sweet flakes yeast dough"
+                },
+                {
+                    "ItemID": 47717,
+                    "ItemName": "Vanilla Marble",
+                    "Category": "Dessert",
+                    "Portion_Category": "Individual",
+                    "Calories": 284,
+                    "Price": 6.0,
+                    "Description": null
+                },
+                {
+                    "ItemID": 47717,
+                    "ItemName": "Orange Bliss",
+                    "Category": "Drink",
+                    "Portion_Category": "Individual",
+                    "Calories": 347,
+                    "Price": 6.0,
+                    "Description": "Orange bliss"
+                },
+                {
+                    "ItemID": 47717,
+                    "ItemName": "Hot Salted Caramel Latte",
+                    "Category": "Drink",
+                    "Portion_Category": "Individual",
+                    "Calories": 290,
+                    "Price": 14.0,
+                    "Description": "A blend of rich espresso with creamy milk and salted caramel flavor."
+                },
+                {
+                    "ItemID": 47717,
+                    "ItemName": "Hot Choco Salted Caramel",
+                    "Category": "Drink",
+                    "Portion_Category": "Individual",
+                    "Calories": 290,
+                    "Price": 14.0,
+                    "Description": "Milk chocolate hot or cold beverage added with salted caramel flavor"
+                },
+                {
+                    "ItemID": 47717,
+                    "ItemName": "Americano",
+                    "Category": "Drink",
+                    "Portion_Category": "Individual",
+                    "Calories": 8,
+                    "Price": 8.0,
+                    "Description": "A combined two shots of dunkinâ€™s espresso with hot water creating a rich, robust drink"
+                },
+                {
+                    "ItemID": 47717,
+                    "ItemName": "Black Tea",
+                    "Category": "Drink",
+                    "Portion_Category": "Individual",
+                    "Calories": 7,
+                    "Price": 7.0,
+                    "Description": null
+                },
+                {
+                    "ItemID": 47717,
+                    "ItemName": "Karak",
+                    "Category": "Drink",
+                    "Portion_Category": "Individual",
+                    "Calories": 128,
+                    "Price": 7.0,
+                    "Description": "A refreshing cardamom-rich flavor tea"
+                },
+                {
+                    "ItemID": 47717,
+                    "ItemName": "Spanish Hot Latte",
+                    "Category": "Drink",
+                    "Portion_Category": "Individual",
+                    "Calories": 326,
+                    "Price": 14.0,
+                    "Description": "A heavenly combination of our international espresso blend with our unique creamy and sweetened dairy served hot"
+                },
+                {
+                    "ItemID": 47717,
+                    "ItemName": "Hot Choco Espresso",
+                    "Category": "Drink",
+                    "Portion_Category": "Individual",
+                    "Calories": 478,
+                    "Price": 13.0,
+                    "Description": "\"a chocolatey, creamy, smooth combination of espresso and steamed milk,packed with the 100% intensity of our 100% arabica beans\""
+                },
+                {
+                    "ItemID": 47717,
+                    "ItemName": "Hot Chocolate",
+                    "Category": "Drink",
+                    "Portion_Category": "Individual",
+                    "Calories": 460,
+                    "Price": 11.0,
+                    "Description": "Rich and delicious chocolate flavor combined with creamy goodness."
+                },
+                {
+                    "ItemID": 47717,
+                    "ItemName": "Latte",
+                    "Category": "Drink",
+                    "Portion_Category": "Individual",
+                    "Calories": 170,
+                    "Price": 11.0,
+                    "Description": "An espresso-based milky hot coffee with silky froth which is served light"
+                },
+                {
+                    "ItemID": 47717,
+                    "ItemName": "Cappuccino",
+                    "Category": "Drink",
+                    "Portion_Category": "Individual",
+                    "Calories": 120,
+                    "Price": 11.0,
+                    "Description": "An espresso-based hot coffee, with steamed milk and a silky froth for strong coffee lovers"
+                },
+                {
+                    "ItemID": 47717,
+                    "ItemName": "Dark Roast Coffee",
+                    "Category": "Drink",
+                    "Portion_Category": "Individual",
+                    "Calories": 18,
+                    "Price": 9.0,
+                    "Description": "Coffee lovers ultimate choice. the dunkin original coffee beans roasted darker for a bolder and richer taste"
+                },
+                {
+                    "ItemID": 47717,
+                    "ItemName": "Hot Chocolate Box",
+                    "Category": "Drink",
+                    "Portion_Category": "Individual",
+                    "Calories": 880,
+                    "Price": 25.0,
+                    "Description": null
+                },
+                {
+                    "ItemID": 47717,
+                    "ItemName": "Karak Tea Small Box",
+                    "Category": "Drink",
+                    "Portion_Category": "Individual",
+                    "Calories": 384,
+                    "Price": 20.0,
+                    "Description": "A refreshing cardamom-rich flavor tea"
+                },
+                {
+                    "ItemID": 47717,
+                    "ItemName": "Mango Passion",
+                    "Category": "Drink",
+                    "Portion_Category": "Individual",
+                    "Calories": 338,
+                    "Price": 6.0,
+                    "Description": "Mango passion"
+                },
+                {
+                    "ItemID": 47717,
+                    "ItemName": "Old Fashion",
+                    "Category": "Dessert",
+                    "Portion_Category": "Individual",
+                    "Calories": 354,
+                    "Price": 6.0,
+                    "Description": "The original dunkinâ€™ donut, plain yet classic."
+                },
+                {
+                    "ItemID": 47717,
+                    "ItemName": "Boston Cream",
+                    "Category": "Dessert",
+                    "Portion_Category": "Individual",
+                    "Calories": 370,
+                    "Price": 6.0,
+                    "Description": "A donut filled with bavarian cream and a chocolate frosting on top."
+                },
+                {
+                    "ItemID": 47717,
+                    "ItemName": "Choco Frosted",
+                    "Category": "Dessert",
+                    "Portion_Category": "Individual",
+                    "Calories": 296,
+                    "Price": 6.0,
+                    "Description": "A donut with a sweet chocolate flavored frosting on top."
+                },
+                {
+                    "ItemID": 47717,
+                    "ItemName": "Glazed Donut",
+                    "Category": "Dessert",
+                    "Portion_Category": "Individual",
+                    "Calories": 254,
+                    "Price": 6.0,
+                    "Description": "A donut dipped in sugared frosting"
+                },
+                {
+                    "ItemID": 47717,
+                    "ItemName": "Iced Choco Salted Caramel",
+                    "Category": "Drink",
+                    "Portion_Category": "Individual",
+                    "Calories": 410,
+                    "Price": 14.0,
+                    "Description": "Milk chocolate hot or cold beverage added with salted caramel flavor"
+                },
+                {
+                    "ItemID": 47717,
+                    "ItemName": "Shaken Peach Ice Tea",
+                    "Category": "Drink",
+                    "Portion_Category": "Individual",
+                    "Calories": 117,
+                    "Price": 14.0,
+                    "Description": null
+                },
+                {
+                    "ItemID": 47717,
+                    "ItemName": "Iced Latte",
+                    "Category": "Drink",
+                    "Portion_Category": "Individual",
+                    "Calories": 380,
+                    "Price": 10.0,
+                    "Description": "\"made with milk blended with our rich, freshly ground and brewed espresso, our iced latte has the perfect balance of cool and creamy to get you goin.\""
+                },
+                {
+                    "ItemID": 47717,
+                    "ItemName": "Iced Coffee",
+                    "Category": "Drink",
+                    "Portion_Category": "Individual",
+                    "Calories": 14,
+                    "Price": 10.0,
+                    "Description": "Dunkin original blended coffee served chilled and lightly sweetened as per your choice"
+                },
+                {
+                    "ItemID": 47717,
+                    "ItemName": "Iced Mocha",
+                    "Category": "Drink",
+                    "Portion_Category": "Individual",
+                    "Calories": 250,
+                    "Price": 10.0,
+                    "Description": "Mocha with a smooth caramel flavor."
+                },
+                {
+                    "ItemID": 47717,
+                    "ItemName": "Spanish Iced Latte",
+                    "Category": "Drink",
+                    "Portion_Category": "Individual",
+                    "Calories": 431,
+                    "Price": 14.0,
+                    "Description": "A heavenly combination of our international espresso blend with our unique creamy and sweetened dairy served chilled"
+                },
+                {
+                    "ItemID": 47717,
+                    "ItemName": "Iced Caramel Macchiato",
+                    "Category": "Drink",
+                    "Portion_Category": "Individual",
+                    "Calories": 214,
+                    "Price": 14.0,
+                    "Description": "Macchiato on the rocks with a smooth caramel flavor."
+                },
+                {
+                    "ItemID": 47717,
+                    "ItemName": "Cold Brew Classic",
+                    "Category": "Drink",
+                    "Portion_Category": "Individual",
+                    "Calories": 349,
+                    "Price": 12.0,
+                    "Description": null
+                }
+            ]
+        }
+    ]
+}

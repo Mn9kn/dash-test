@@ -1,0 +1,4396 @@
+[
+    {
+        "NeighborhoodName": "Ad Dhubbat",
+        "District": "Ad Dhubbat",
+        "Total_Count": 1550,
+        "Healthy_Count": 842,
+        "Percentage": 54.32,
+        "All_items": 59758,
+        "Healthy_items": 32171,
+        "Precentage_of_Healthy_Items": 53.84,
+        "Avg_Price_Healthy": 25.81,
+        "Avg_Price_Unhealthy": 29.34,
+        "Category_Counts": {
+            "Main": 25623,
+            "Meal": 2955,
+            "Side": 9882,
+            "Dessert": 6981,
+            "Drink": 14317
+        },
+        "Category_Healthy_Counts": {
+            "Main": 18001,
+            "Meal": 1340,
+            "Side": 4419,
+            "Dessert": 1512,
+            "Drink": 6899
+        }
+    },
+    {
+        "NeighborhoodName": "Ad Difa",
+        "District": "Ad Difa",
+        "Total_Count": 555,
+        "Healthy_Count": 328,
+        "Percentage": 59.1,
+        "All_items": 24296,
+        "Healthy_items": 13671,
+        "Precentage_of_Healthy_Items": 56.27,
+        "Avg_Price_Healthy": 19.83,
+        "Avg_Price_Unhealthy": 24.35,
+        "Category_Counts": {
+            "Main": 9689,
+            "Meal": 1296,
+            "Side": 3326,
+            "Dessert": 2964,
+            "Drink": 7021
+        },
+        "Category_Healthy_Counts": {
+            "Main": 7266,
+            "Meal": 528,
+            "Side": 1632,
+            "Dessert": 641,
+            "Drink": 3604
+        }
+    },
+    {
+        "NeighborhoodName": "Ad Diriyah",
+        "District": "Ad Diriyah",
+        "Total_Count": 248,
+        "Healthy_Count": 138,
+        "Percentage": 55.65,
+        "All_items": 10063,
+        "Healthy_items": 5543,
+        "Precentage_of_Healthy_Items": 55.08,
+        "Avg_Price_Healthy": 25.99,
+        "Avg_Price_Unhealthy": 31.39,
+        "Category_Counts": {
+            "Main": 3921,
+            "Meal": 580,
+            "Side": 1546,
+            "Dessert": 1465,
+            "Drink": 2551
+        },
+        "Category_Healthy_Counts": {
+            "Main": 3001,
+            "Meal": 241,
+            "Side": 700,
+            "Dessert": 318,
+            "Drink": 1283
+        }
+    },
+    {
+        "NeighborhoodName": "Alawali",
+        "District": "Alawali",
+        "Total_Count": 733,
+        "Healthy_Count": 392,
+        "Percentage": 53.48,
+        "All_items": 29152,
+        "Healthy_items": 15623,
+        "Precentage_of_Healthy_Items": 53.59,
+        "Avg_Price_Healthy": 19.08,
+        "Avg_Price_Unhealthy": 24.53,
+        "Category_Counts": {
+            "Main": 10888,
+            "Meal": 1363,
+            "Side": 3554,
+            "Dessert": 3468,
+            "Drink": 9879
+        },
+        "Category_Healthy_Counts": {
+            "Main": 7691,
+            "Meal": 615,
+            "Side": 1698,
+            "Dessert": 725,
+            "Drink": 4894
+        }
+    },
+    {
+        "NeighborhoodName": "Alqura",
+        "District": "Alqura",
+        "Total_Count": 1160,
+        "Healthy_Count": 652,
+        "Percentage": 56.21,
+        "All_items": 46145,
+        "Healthy_items": 25187,
+        "Precentage_of_Healthy_Items": 54.58,
+        "Avg_Price_Healthy": 23.12,
+        "Avg_Price_Unhealthy": 27.28,
+        "Category_Counts": {
+            "Main": 18360,
+            "Meal": 2299,
+            "Side": 6883,
+            "Dessert": 5242,
+            "Drink": 13361
+        },
+        "Category_Healthy_Counts": {
+            "Main": 13091,
+            "Meal": 1067,
+            "Side": 3346,
+            "Dessert": 1215,
+            "Drink": 6468
+        }
+    },
+    {
+        "NeighborhoodName": "Alsharq",
+        "District": "Alsharq",
+        "Total_Count": 172,
+        "Healthy_Count": 99,
+        "Percentage": 57.56,
+        "All_items": 7099,
+        "Healthy_items": 3817,
+        "Precentage_of_Healthy_Items": 53.77,
+        "Avg_Price_Healthy": 19.08,
+        "Avg_Price_Unhealthy": 27.91,
+        "Category_Counts": {
+            "Main": 2951,
+            "Meal": 464,
+            "Side": 1090,
+            "Dessert": 1036,
+            "Drink": 1558
+        },
+        "Category_Healthy_Counts": {
+            "Main": 2181,
+            "Meal": 208,
+            "Side": 533,
+            "Dessert": 135,
+            "Drink": 760
+        }
+    },
+    {
+        "NeighborhoodName": "Al Amaaria",
+        "District": "Al Amaaria",
+        "Total_Count": 1,
+        "Healthy_Count": 0,
+        "Percentage": 0.0,
+        "All_items": 39,
+        "Healthy_items": 15,
+        "Precentage_of_Healthy_Items": 38.46,
+        "Avg_Price_Healthy": 10.4,
+        "Avg_Price_Unhealthy": 11.12,
+        "Category_Counts": {
+            "Main": 5,
+            "Meal": 0,
+            "Side": 0,
+            "Dessert": 10,
+            "Drink": 24
+        },
+        "Category_Healthy_Counts": {
+            "Main": 5,
+            "Meal": 0,
+            "Side": 0,
+            "Dessert": 2,
+            "Drink": 8
+        }
+    },
+    {
+        "NeighborhoodName": "Al Amal",
+        "District": "Al Amal",
+        "Total_Count": 1479,
+        "Healthy_Count": 839,
+        "Percentage": 56.73,
+        "All_items": 57350,
+        "Healthy_items": 31263,
+        "Precentage_of_Healthy_Items": 54.51,
+        "Avg_Price_Healthy": 21.29,
+        "Avg_Price_Unhealthy": 27.26,
+        "Category_Counts": {
+            "Main": 21860,
+            "Meal": 2516,
+            "Side": 7773,
+            "Dessert": 7347,
+            "Drink": 17854
+        },
+        "Category_Healthy_Counts": {
+            "Main": 15705,
+            "Meal": 1126,
+            "Side": 3744,
+            "Dessert": 1657,
+            "Drink": 9031
+        }
+    },
+    {
+        "NeighborhoodName": "Al Andalus",
+        "District": "Al Andalus",
+        "Total_Count": 1215,
+        "Healthy_Count": 683,
+        "Percentage": 56.21,
+        "All_items": 41820,
+        "Healthy_items": 21922,
+        "Precentage_of_Healthy_Items": 52.42,
+        "Avg_Price_Healthy": 23.79,
+        "Avg_Price_Unhealthy": 28.16,
+        "Category_Counts": {
+            "Main": 16677,
+            "Meal": 2076,
+            "Side": 6786,
+            "Dessert": 5453,
+            "Drink": 10828
+        },
+        "Category_Healthy_Counts": {
+            "Main": 11697,
+            "Meal": 897,
+            "Side": 3178,
+            "Dessert": 1172,
+            "Drink": 4978
+        }
+    },
+    {
+        "NeighborhoodName": "Al Arid",
+        "District": "Al Arid",
+        "Total_Count": 471,
+        "Healthy_Count": 222,
+        "Percentage": 47.13,
+        "All_items": 15992,
+        "Healthy_items": 7943,
+        "Precentage_of_Healthy_Items": 49.67,
+        "Avg_Price_Healthy": 23.32,
+        "Avg_Price_Unhealthy": 31.11,
+        "Category_Counts": {
+            "Main": 6362,
+            "Meal": 928,
+            "Side": 3043,
+            "Dessert": 1982,
+            "Drink": 3677
+        },
+        "Category_Healthy_Counts": {
+            "Main": 3904,
+            "Meal": 305,
+            "Side": 1296,
+            "Dessert": 367,
+            "Drink": 2071
+        }
+    },
+    {
+        "NeighborhoodName": "Al Azizyah",
+        "District": "Al Azizyah",
+        "Total_Count": 961,
+        "Healthy_Count": 564,
+        "Percentage": 58.69,
+        "All_items": 39763,
+        "Healthy_items": 22107,
+        "Precentage_of_Healthy_Items": 55.6,
+        "Avg_Price_Healthy": 22.63,
+        "Avg_Price_Unhealthy": 26.38,
+        "Category_Counts": {
+            "Main": 15938,
+            "Meal": 2230,
+            "Side": 5434,
+            "Dessert": 4919,
+            "Drink": 11242
+        },
+        "Category_Healthy_Counts": {
+            "Main": 11924,
+            "Meal": 1018,
+            "Side": 2603,
+            "Dessert": 1069,
+            "Drink": 5493
+        }
+    },
+    {
+        "NeighborhoodName": "Al Badi'ah",
+        "District": "Al Badi'ah",
+        "Total_Count": 1350,
+        "Healthy_Count": 747,
+        "Percentage": 55.33,
+        "All_items": 50859,
+        "Healthy_items": 27711,
+        "Precentage_of_Healthy_Items": 54.49,
+        "Avg_Price_Healthy": 24.31,
+        "Avg_Price_Unhealthy": 27.58,
+        "Category_Counts": {
+            "Main": 21309,
+            "Meal": 2610,
+            "Side": 7799,
+            "Dessert": 5682,
+            "Drink": 13459
+        },
+        "Category_Healthy_Counts": {
+            "Main": 15017,
+            "Meal": 1123,
+            "Side": 3623,
+            "Dessert": 1259,
+            "Drink": 6689
+        }
+    },
+    {
+        "NeighborhoodName": "Al Butaiha",
+        "District": "Al Butaiha",
+        "Total_Count": 1251,
+        "Healthy_Count": 713,
+        "Percentage": 56.99,
+        "All_items": 48321,
+        "Healthy_items": 26804,
+        "Precentage_of_Healthy_Items": 55.47,
+        "Avg_Price_Healthy": 23.78,
+        "Avg_Price_Unhealthy": 27.72,
+        "Category_Counts": {
+            "Main": 20545,
+            "Meal": 2558,
+            "Side": 7579,
+            "Dessert": 5565,
+            "Drink": 12074
+        },
+        "Category_Healthy_Counts": {
+            "Main": 14737,
+            "Meal": 1162,
+            "Side": 3555,
+            "Dessert": 1312,
+            "Drink": 6038
+        }
+    },
+    {
+        "NeighborhoodName": "Al Fakhiriyah",
+        "District": "Al Fakhiriyah",
+        "Total_Count": 1333,
+        "Healthy_Count": 739,
+        "Percentage": 55.44,
+        "All_items": 51030,
+        "Healthy_items": 27888,
+        "Precentage_of_Healthy_Items": 54.65,
+        "Avg_Price_Healthy": 25.26,
+        "Avg_Price_Unhealthy": 29.34,
+        "Category_Counts": {
+            "Main": 21407,
+            "Meal": 2677,
+            "Side": 7733,
+            "Dessert": 6014,
+            "Drink": 13199
+        },
+        "Category_Healthy_Counts": {
+            "Main": 15238,
+            "Meal": 1217,
+            "Side": 3576,
+            "Dessert": 1265,
+            "Drink": 6592
+        }
+    },
+    {
+        "NeighborhoodName": "Al Falah",
+        "District": "Al Falah",
+        "Total_Count": 1464,
+        "Healthy_Count": 826,
+        "Percentage": 56.42,
+        "All_items": 48154,
+        "Healthy_items": 25864,
+        "Precentage_of_Healthy_Items": 53.71,
+        "Avg_Price_Healthy": 25.31,
+        "Avg_Price_Unhealthy": 31.3,
+        "Category_Counts": {
+            "Main": 19775,
+            "Meal": 2723,
+            "Side": 8228,
+            "Dessert": 6036,
+            "Drink": 11392
+        },
+        "Category_Healthy_Counts": {
+            "Main": 13862,
+            "Meal": 1318,
+            "Side": 3762,
+            "Dessert": 1176,
+            "Drink": 5746
+        }
+    },
+    {
+        "NeighborhoodName": "Al Futha",
+        "District": "Al Futha",
+        "Total_Count": 1537,
+        "Healthy_Count": 861,
+        "Percentage": 56.02,
+        "All_items": 61040,
+        "Healthy_items": 33217,
+        "Precentage_of_Healthy_Items": 54.42,
+        "Avg_Price_Healthy": 25.46,
+        "Avg_Price_Unhealthy": 28.84,
+        "Category_Counts": {
+            "Main": 25929,
+            "Meal": 2928,
+            "Side": 9639,
+            "Dessert": 6711,
+            "Drink": 15833
+        },
+        "Category_Healthy_Counts": {
+            "Main": 18265,
+            "Meal": 1293,
+            "Side": 4483,
+            "Dessert": 1433,
+            "Drink": 7743
+        }
+    },
+    {
+        "NeighborhoodName": "Al Ghnamiah",
+        "District": "Al Ghnamiah",
+        "Total_Count": 5,
+        "Healthy_Count": 2,
+        "Percentage": 40.0,
+        "All_items": 161,
+        "Healthy_items": 105,
+        "Precentage_of_Healthy_Items": 65.22,
+        "Avg_Price_Healthy": 12.13,
+        "Avg_Price_Unhealthy": 21.55,
+        "Category_Counts": {
+            "Main": 87,
+            "Meal": 1,
+            "Side": 30,
+            "Dessert": 14,
+            "Drink": 29
+        },
+        "Category_Healthy_Counts": {
+            "Main": 69,
+            "Meal": 0,
+            "Side": 22,
+            "Dessert": 3,
+            "Drink": 11
+        }
+    },
+    {
+        "NeighborhoodName": "Al Haeer",
+        "District": "Al Haeer",
+        "Total_Count": 10,
+        "Healthy_Count": 6,
+        "Percentage": 60.0,
+        "All_items": 594,
+        "Healthy_items": 283,
+        "Precentage_of_Healthy_Items": 47.64,
+        "Avg_Price_Healthy": 20.86,
+        "Avg_Price_Unhealthy": 24.84,
+        "Category_Counts": {
+            "Main": 227,
+            "Meal": 81,
+            "Side": 87,
+            "Dessert": 81,
+            "Drink": 118
+        },
+        "Category_Healthy_Counts": {
+            "Main": 160,
+            "Meal": 33,
+            "Side": 47,
+            "Dessert": 13,
+            "Drink": 30
+        }
+    },
+    {
+        "NeighborhoodName": "Al Hazm",
+        "District": "Al Hazm",
+        "Total_Count": 862,
+        "Healthy_Count": 476,
+        "Percentage": 55.22,
+        "All_items": 32053,
+        "Healthy_items": 17491,
+        "Precentage_of_Healthy_Items": 54.57,
+        "Avg_Price_Healthy": 20.19,
+        "Avg_Price_Unhealthy": 26.0,
+        "Category_Counts": {
+            "Main": 12774,
+            "Meal": 1668,
+            "Side": 4651,
+            "Dessert": 3911,
+            "Drink": 9049
+        },
+        "Category_Healthy_Counts": {
+            "Main": 9107,
+            "Meal": 678,
+            "Side": 2275,
+            "Dessert": 842,
+            "Drink": 4589
+        }
+    },
+    {
+        "NeighborhoodName": "Al Isdihar",
+        "District": "Al Isdihar",
+        "Total_Count": 1524,
+        "Healthy_Count": 841,
+        "Percentage": 55.18,
+        "All_items": 50279,
+        "Healthy_items": 26817,
+        "Precentage_of_Healthy_Items": 53.34,
+        "Avg_Price_Healthy": 25.25,
+        "Avg_Price_Unhealthy": 30.6,
+        "Category_Counts": {
+            "Main": 20537,
+            "Meal": 2837,
+            "Side": 8463,
+            "Dessert": 6573,
+            "Drink": 11869
+        },
+        "Category_Healthy_Counts": {
+            "Main": 14409,
+            "Meal": 1323,
+            "Side": 3813,
+            "Dessert": 1372,
+            "Drink": 5900
+        }
+    },
+    {
+        "NeighborhoodName": "Al Iskan",
+        "District": "Al Iskan",
+        "Total_Count": 350,
+        "Healthy_Count": 220,
+        "Percentage": 62.86,
+        "All_items": 16477,
+        "Healthy_items": 9238,
+        "Precentage_of_Healthy_Items": 56.07,
+        "Avg_Price_Healthy": 22.08,
+        "Avg_Price_Unhealthy": 24.91,
+        "Category_Counts": {
+            "Main": 6725,
+            "Meal": 910,
+            "Side": 2170,
+            "Dessert": 1727,
+            "Drink": 4945
+        },
+        "Category_Healthy_Counts": {
+            "Main": 5095,
+            "Meal": 426,
+            "Side": 1094,
+            "Dessert": 339,
+            "Drink": 2284
+        }
+    },
+    {
+        "NeighborhoodName": "Al Jaradiyah",
+        "District": "Al Jaradiyah",
+        "Total_Count": 1164,
+        "Healthy_Count": 656,
+        "Percentage": 56.36,
+        "All_items": 46282,
+        "Healthy_items": 25931,
+        "Precentage_of_Healthy_Items": 56.03,
+        "Avg_Price_Healthy": 22.94,
+        "Avg_Price_Unhealthy": 27.23,
+        "Category_Counts": {
+            "Main": 19018,
+            "Meal": 2608,
+            "Side": 6973,
+            "Dessert": 4964,
+            "Drink": 12719
+        },
+        "Category_Healthy_Counts": {
+            "Main": 13649,
+            "Meal": 1198,
+            "Side": 3312,
+            "Dessert": 1144,
+            "Drink": 6628
+        }
+    },
+    {
+        "NeighborhoodName": "Al Jubaylah",
+        "District": "Al Jubaylah",
+        "Total_Count": 50,
+        "Healthy_Count": 20,
+        "Percentage": 40.0,
+        "All_items": 2095,
+        "Healthy_items": 1065,
+        "Precentage_of_Healthy_Items": 50.84,
+        "Avg_Price_Healthy": 22.26,
+        "Avg_Price_Unhealthy": 24.45,
+        "Category_Counts": {
+            "Main": 806,
+            "Meal": 140,
+            "Side": 300,
+            "Dessert": 266,
+            "Drink": 583
+        },
+        "Category_Healthy_Counts": {
+            "Main": 585,
+            "Meal": 50,
+            "Side": 117,
+            "Dessert": 56,
+            "Drink": 257
+        }
+    },
+    {
+        "NeighborhoodName": "Al Khaleej",
+        "District": "Al Khaleej",
+        "Total_Count": 1229,
+        "Healthy_Count": 722,
+        "Percentage": 58.75,
+        "All_items": 42911,
+        "Healthy_items": 23617,
+        "Precentage_of_Healthy_Items": 55.04,
+        "Avg_Price_Healthy": 23.85,
+        "Avg_Price_Unhealthy": 29.35,
+        "Category_Counts": {
+            "Main": 17094,
+            "Meal": 2071,
+            "Side": 6754,
+            "Dessert": 5828,
+            "Drink": 11164
+        },
+        "Category_Healthy_Counts": {
+            "Main": 12701,
+            "Meal": 953,
+            "Side": 3380,
+            "Dessert": 1277,
+            "Drink": 5306
+        }
+    },
+    {
+        "NeighborhoodName": "Al Maather",
+        "District": "Al Maather",
+        "Total_Count": 1503,
+        "Healthy_Count": 818,
+        "Percentage": 54.42,
+        "All_items": 58349,
+        "Healthy_items": 31796,
+        "Precentage_of_Healthy_Items": 54.49,
+        "Avg_Price_Healthy": 26.25,
+        "Avg_Price_Unhealthy": 30.25,
+        "Category_Counts": {
+            "Main": 24937,
+            "Meal": 3218,
+            "Side": 9556,
+            "Dessert": 6618,
+            "Drink": 14020
+        },
+        "Category_Healthy_Counts": {
+            "Main": 17442,
+            "Meal": 1535,
+            "Side": 4259,
+            "Dessert": 1430,
+            "Drink": 7130
+        }
+    },
+    {
+        "NeighborhoodName": "Al Mahdiyah",
+        "District": "Al Mahdiyah",
+        "Total_Count": 532,
+        "Healthy_Count": 261,
+        "Percentage": 49.06,
+        "All_items": 19625,
+        "Healthy_items": 10004,
+        "Precentage_of_Healthy_Items": 50.98,
+        "Avg_Price_Healthy": 23.76,
+        "Avg_Price_Unhealthy": 28.33,
+        "Category_Counts": {
+            "Main": 7399,
+            "Meal": 1164,
+            "Side": 3009,
+            "Dessert": 2234,
+            "Drink": 5819
+        },
+        "Category_Healthy_Counts": {
+            "Main": 4854,
+            "Meal": 576,
+            "Side": 1392,
+            "Dessert": 446,
+            "Drink": 2736
+        }
+    },
+    {
+        "NeighborhoodName": "Al Mansourah",
+        "District": "Al Mansourah",
+        "Total_Count": 1304,
+        "Healthy_Count": 736,
+        "Percentage": 56.44,
+        "All_items": 52420,
+        "Healthy_items": 28991,
+        "Precentage_of_Healthy_Items": 55.31,
+        "Avg_Price_Healthy": 22.43,
+        "Avg_Price_Unhealthy": 26.44,
+        "Category_Counts": {
+            "Main": 21968,
+            "Meal": 2593,
+            "Side": 8078,
+            "Dessert": 6130,
+            "Drink": 13651
+        },
+        "Category_Healthy_Counts": {
+            "Main": 15839,
+            "Meal": 1182,
+            "Side": 3831,
+            "Dessert": 1411,
+            "Drink": 6728
+        }
+    },
+    {
+        "NeighborhoodName": "Al Marwah",
+        "District": "Al Marwah",
+        "Total_Count": 972,
+        "Healthy_Count": 534,
+        "Percentage": 54.94,
+        "All_items": 36483,
+        "Healthy_items": 19800,
+        "Precentage_of_Healthy_Items": 54.27,
+        "Avg_Price_Healthy": 21.49,
+        "Avg_Price_Unhealthy": 25.52,
+        "Category_Counts": {
+            "Main": 14546,
+            "Meal": 1969,
+            "Side": 5476,
+            "Dessert": 4343,
+            "Drink": 10149
+        },
+        "Category_Healthy_Counts": {
+            "Main": 10418,
+            "Meal": 788,
+            "Side": 2739,
+            "Dessert": 963,
+            "Drink": 4892
+        }
+    },
+    {
+        "NeighborhoodName": "al massani",
+        "District": "al massani",
+        "Total_Count": 362,
+        "Healthy_Count": 222,
+        "Percentage": 61.33,
+        "All_items": 15984,
+        "Healthy_items": 9286,
+        "Precentage_of_Healthy_Items": 58.1,
+        "Avg_Price_Healthy": 21.08,
+        "Avg_Price_Unhealthy": 23.97,
+        "Category_Counts": {
+            "Main": 5475,
+            "Meal": 979,
+            "Side": 2109,
+            "Dessert": 1752,
+            "Drink": 5669
+        },
+        "Category_Healthy_Counts": {
+            "Main": 4338,
+            "Meal": 442,
+            "Side": 1158,
+            "Dessert": 425,
+            "Drink": 2923
+        }
+    },
+    {
+        "NeighborhoodName": "Al Mathar Ash Shamali",
+        "District": "Al Mathar Ash Shamali",
+        "Total_Count": 1715,
+        "Healthy_Count": 953,
+        "Percentage": 55.57,
+        "All_items": 66036,
+        "Healthy_items": 35939,
+        "Precentage_of_Healthy_Items": 54.42,
+        "Avg_Price_Healthy": 26.29,
+        "Avg_Price_Unhealthy": 30.09,
+        "Category_Counts": {
+            "Main": 26758,
+            "Meal": 3385,
+            "Side": 10509,
+            "Dessert": 7669,
+            "Drink": 17715
+        },
+        "Category_Healthy_Counts": {
+            "Main": 19010,
+            "Meal": 1644,
+            "Side": 4796,
+            "Dessert": 1732,
+            "Drink": 8757
+        }
+    },
+    {
+        "NeighborhoodName": "Al Mishal",
+        "District": "Al Mishal",
+        "Total_Count": 629,
+        "Healthy_Count": 363,
+        "Percentage": 57.71,
+        "All_items": 25978,
+        "Healthy_items": 14240,
+        "Precentage_of_Healthy_Items": 54.82,
+        "Avg_Price_Healthy": 21.31,
+        "Avg_Price_Unhealthy": 25.23,
+        "Category_Counts": {
+            "Main": 10357,
+            "Meal": 1401,
+            "Side": 3653,
+            "Dessert": 3240,
+            "Drink": 7327
+        },
+        "Category_Healthy_Counts": {
+            "Main": 7765,
+            "Meal": 644,
+            "Side": 1795,
+            "Dessert": 718,
+            "Drink": 3318
+        }
+    },
+    {
+        "NeighborhoodName": "Al Mohammadiyah",
+        "District": "Al Mohammadiyah",
+        "Total_Count": 1270,
+        "Healthy_Count": 732,
+        "Percentage": 57.64,
+        "All_items": 44430,
+        "Healthy_items": 24320,
+        "Precentage_of_Healthy_Items": 54.74,
+        "Avg_Price_Healthy": 26.27,
+        "Avg_Price_Unhealthy": 31.44,
+        "Category_Counts": {
+            "Main": 18075,
+            "Meal": 2186,
+            "Side": 7445,
+            "Dessert": 5687,
+            "Drink": 11037
+        },
+        "Category_Healthy_Counts": {
+            "Main": 12981,
+            "Meal": 999,
+            "Side": 3352,
+            "Dessert": 1288,
+            "Drink": 5700
+        }
+    },
+    {
+        "NeighborhoodName": "Al Moqbel Palaces",
+        "District": "Al Moqbel Palaces",
+        "Total_Count": 45,
+        "Healthy_Count": 30,
+        "Percentage": 66.67,
+        "All_items": 1818,
+        "Healthy_items": 935,
+        "Precentage_of_Healthy_Items": 51.43,
+        "Avg_Price_Healthy": 18.86,
+        "Avg_Price_Unhealthy": 21.46,
+        "Category_Counts": {
+            "Main": 607,
+            "Meal": 135,
+            "Side": 313,
+            "Dessert": 160,
+            "Drink": 603
+        },
+        "Category_Healthy_Counts": {
+            "Main": 443,
+            "Meal": 45,
+            "Side": 178,
+            "Dessert": 33,
+            "Drink": 236
+        }
+    },
+    {
+        "NeighborhoodName": "Al Morabaa",
+        "District": "Al Morabaa",
+        "Total_Count": 1241,
+        "Healthy_Count": 693,
+        "Percentage": 55.84,
+        "All_items": 50463,
+        "Healthy_items": 27457,
+        "Precentage_of_Healthy_Items": 54.41,
+        "Avg_Price_Healthy": 23.53,
+        "Avg_Price_Unhealthy": 28.04,
+        "Category_Counts": {
+            "Main": 19871,
+            "Meal": 2584,
+            "Side": 7339,
+            "Dessert": 6014,
+            "Drink": 14655
+        },
+        "Category_Healthy_Counts": {
+            "Main": 14163,
+            "Meal": 1130,
+            "Side": 3445,
+            "Dessert": 1350,
+            "Drink": 7369
+        }
+    },
+    {
+        "NeighborhoodName": "Al Morsalat",
+        "District": "Al Morsalat",
+        "Total_Count": 1505,
+        "Healthy_Count": 873,
+        "Percentage": 58.01,
+        "All_items": 52894,
+        "Healthy_items": 29092,
+        "Precentage_of_Healthy_Items": 55.0,
+        "Avg_Price_Healthy": 26.09,
+        "Avg_Price_Unhealthy": 30.98,
+        "Category_Counts": {
+            "Main": 21412,
+            "Meal": 2681,
+            "Side": 8747,
+            "Dessert": 6922,
+            "Drink": 13132
+        },
+        "Category_Healthy_Counts": {
+            "Main": 15412,
+            "Meal": 1242,
+            "Side": 4033,
+            "Dessert": 1504,
+            "Drink": 6901
+        }
+    },
+    {
+        "NeighborhoodName": "Al Mughrizat",
+        "District": "Al Mughrizat",
+        "Total_Count": 1192,
+        "Healthy_Count": 656,
+        "Percentage": 55.03,
+        "All_items": 38743,
+        "Healthy_items": 20543,
+        "Precentage_of_Healthy_Items": 53.02,
+        "Avg_Price_Healthy": 24.27,
+        "Avg_Price_Unhealthy": 30.31,
+        "Category_Counts": {
+            "Main": 15287,
+            "Meal": 2178,
+            "Side": 6635,
+            "Dessert": 5135,
+            "Drink": 9508
+        },
+        "Category_Healthy_Counts": {
+            "Main": 10761,
+            "Meal": 913,
+            "Side": 3052,
+            "Dessert": 1024,
+            "Drink": 4793
+        }
+    },
+    {
+        "NeighborhoodName": "Al Muruj",
+        "District": "Al Muruj",
+        "Total_Count": 1364,
+        "Healthy_Count": 786,
+        "Percentage": 57.62,
+        "All_items": 48067,
+        "Healthy_items": 26135,
+        "Precentage_of_Healthy_Items": 54.37,
+        "Avg_Price_Healthy": 25.69,
+        "Avg_Price_Unhealthy": 30.73,
+        "Category_Counts": {
+            "Main": 18554,
+            "Meal": 2416,
+            "Side": 7591,
+            "Dessert": 6812,
+            "Drink": 12694
+        },
+        "Category_Healthy_Counts": {
+            "Main": 13329,
+            "Meal": 1091,
+            "Side": 3550,
+            "Dessert": 1523,
+            "Drink": 6642
+        }
+    },
+    {
+        "NeighborhoodName": "Al Nada",
+        "District": "Al Nada",
+        "Total_Count": 1424,
+        "Healthy_Count": 819,
+        "Percentage": 57.51,
+        "All_items": 46025,
+        "Healthy_items": 24852,
+        "Precentage_of_Healthy_Items": 54.0,
+        "Avg_Price_Healthy": 25.27,
+        "Avg_Price_Unhealthy": 30.96,
+        "Category_Counts": {
+            "Main": 17843,
+            "Meal": 2224,
+            "Side": 7601,
+            "Dessert": 6162,
+            "Drink": 12195
+        },
+        "Category_Healthy_Counts": {
+            "Main": 12793,
+            "Meal": 1012,
+            "Side": 3531,
+            "Dessert": 1346,
+            "Drink": 6170
+        }
+    },
+    {
+        "NeighborhoodName": "Al Nafal",
+        "District": "Al Nafal",
+        "Total_Count": 1470,
+        "Healthy_Count": 834,
+        "Percentage": 56.73,
+        "All_items": 47080,
+        "Healthy_items": 25621,
+        "Precentage_of_Healthy_Items": 54.42,
+        "Avg_Price_Healthy": 25.72,
+        "Avg_Price_Unhealthy": 31.52,
+        "Category_Counts": {
+            "Main": 18570,
+            "Meal": 2313,
+            "Side": 7981,
+            "Dessert": 6290,
+            "Drink": 11926
+        },
+        "Category_Healthy_Counts": {
+            "Main": 13168,
+            "Meal": 1012,
+            "Side": 3744,
+            "Dessert": 1427,
+            "Drink": 6270
+        }
+    },
+    {
+        "NeighborhoodName": "Al Nahda",
+        "District": "Al Nahda",
+        "Total_Count": 755,
+        "Healthy_Count": 448,
+        "Percentage": 59.34,
+        "All_items": 27031,
+        "Healthy_items": 14514,
+        "Precentage_of_Healthy_Items": 53.69,
+        "Avg_Price_Healthy": 22.18,
+        "Avg_Price_Unhealthy": 26.15,
+        "Category_Counts": {
+            "Main": 10233,
+            "Meal": 1342,
+            "Side": 4251,
+            "Dessert": 3442,
+            "Drink": 7763
+        },
+        "Category_Healthy_Counts": {
+            "Main": 7611,
+            "Meal": 589,
+            "Side": 2196,
+            "Dessert": 647,
+            "Drink": 3471
+        }
+    },
+    {
+        "NeighborhoodName": "Al Nuzhah",
+        "District": "Al Nuzhah",
+        "Total_Count": 1266,
+        "Healthy_Count": 687,
+        "Percentage": 54.27,
+        "All_items": 43316,
+        "Healthy_items": 23143,
+        "Precentage_of_Healthy_Items": 53.43,
+        "Avg_Price_Healthy": 25.47,
+        "Avg_Price_Unhealthy": 31.26,
+        "Category_Counts": {
+            "Main": 17611,
+            "Meal": 2393,
+            "Side": 7367,
+            "Dessert": 5627,
+            "Drink": 10318
+        },
+        "Category_Healthy_Counts": {
+            "Main": 12135,
+            "Meal": 1012,
+            "Side": 3287,
+            "Dessert": 1240,
+            "Drink": 5469
+        }
+    },
+    {
+        "NeighborhoodName": "Al Olaya",
+        "District": "Al Olaya",
+        "Total_Count": 1321,
+        "Healthy_Count": 723,
+        "Percentage": 54.73,
+        "All_items": 50830,
+        "Healthy_items": 27516,
+        "Precentage_of_Healthy_Items": 54.13,
+        "Avg_Price_Healthy": 25.25,
+        "Avg_Price_Unhealthy": 30.33,
+        "Category_Counts": {
+            "Main": 21234,
+            "Meal": 2737,
+            "Side": 8222,
+            "Dessert": 6295,
+            "Drink": 12342
+        },
+        "Category_Healthy_Counts": {
+            "Main": 14903,
+            "Meal": 1191,
+            "Side": 3710,
+            "Dessert": 1331,
+            "Drink": 6381
+        }
+    },
+    {
+        "NeighborhoodName": "Al Quds",
+        "District": "Al Quds",
+        "Total_Count": 1057,
+        "Healthy_Count": 562,
+        "Percentage": 53.17,
+        "All_items": 37728,
+        "Healthy_items": 19686,
+        "Precentage_of_Healthy_Items": 52.18,
+        "Avg_Price_Healthy": 23.54,
+        "Avg_Price_Unhealthy": 28.86,
+        "Category_Counts": {
+            "Main": 14756,
+            "Meal": 1911,
+            "Side": 6048,
+            "Dessert": 4867,
+            "Drink": 10146
+        },
+        "Category_Healthy_Counts": {
+            "Main": 10312,
+            "Meal": 805,
+            "Side": 2731,
+            "Dessert": 996,
+            "Drink": 4842
+        }
+    },
+    {
+        "NeighborhoodName": "Al Rabwah",
+        "District": "Al Rabwah",
+        "Total_Count": 1289,
+        "Healthy_Count": 716,
+        "Percentage": 55.55,
+        "All_items": 49701,
+        "Healthy_items": 26356,
+        "Precentage_of_Healthy_Items": 53.03,
+        "Avg_Price_Healthy": 22.87,
+        "Avg_Price_Unhealthy": 28.23,
+        "Category_Counts": {
+            "Main": 20479,
+            "Meal": 2431,
+            "Side": 7615,
+            "Dessert": 6159,
+            "Drink": 13017
+        },
+        "Category_Healthy_Counts": {
+            "Main": 14381,
+            "Meal": 1067,
+            "Side": 3470,
+            "Dessert": 1241,
+            "Drink": 6197
+        }
+    },
+    {
+        "NeighborhoodName": "Al Rawabi",
+        "District": "Al Rawabi",
+        "Total_Count": 809,
+        "Healthy_Count": 435,
+        "Percentage": 53.77,
+        "All_items": 31046,
+        "Healthy_items": 15850,
+        "Precentage_of_Healthy_Items": 51.05,
+        "Avg_Price_Healthy": 22.36,
+        "Avg_Price_Unhealthy": 26.68,
+        "Category_Counts": {
+            "Main": 11800,
+            "Meal": 1694,
+            "Side": 4779,
+            "Dessert": 3897,
+            "Drink": 8876
+        },
+        "Category_Healthy_Counts": {
+            "Main": 7974,
+            "Meal": 717,
+            "Side": 2205,
+            "Dessert": 824,
+            "Drink": 4130
+        }
+    },
+    {
+        "NeighborhoodName": "Al Rawdah",
+        "District": "Al Rawdah",
+        "Total_Count": 1127,
+        "Healthy_Count": 641,
+        "Percentage": 56.88,
+        "All_items": 42942,
+        "Healthy_items": 22558,
+        "Precentage_of_Healthy_Items": 52.53,
+        "Avg_Price_Healthy": 23.05,
+        "Avg_Price_Unhealthy": 28.77,
+        "Category_Counts": {
+            "Main": 16914,
+            "Meal": 2119,
+            "Side": 6336,
+            "Dessert": 5673,
+            "Drink": 11900
+        },
+        "Category_Healthy_Counts": {
+            "Main": 12020,
+            "Meal": 916,
+            "Side": 2869,
+            "Dessert": 1183,
+            "Drink": 5570
+        }
+    },
+    {
+        "NeighborhoodName": "Al Safarat",
+        "District": "Al Safarat",
+        "Total_Count": 1187,
+        "Healthy_Count": 661,
+        "Percentage": 55.69,
+        "All_items": 45425,
+        "Healthy_items": 24538,
+        "Precentage_of_Healthy_Items": 54.02,
+        "Avg_Price_Healthy": 25.46,
+        "Avg_Price_Unhealthy": 29.76,
+        "Category_Counts": {
+            "Main": 18011,
+            "Meal": 2324,
+            "Side": 6907,
+            "Dessert": 5438,
+            "Drink": 12745
+        },
+        "Category_Healthy_Counts": {
+            "Main": 12721,
+            "Meal": 1038,
+            "Side": 3187,
+            "Dessert": 1225,
+            "Drink": 6367
+        }
+    },
+    {
+        "NeighborhoodName": "Al Shomaisi",
+        "District": "Al Shomaisi",
+        "Total_Count": 1161,
+        "Healthy_Count": 670,
+        "Percentage": 57.71,
+        "All_items": 47388,
+        "Healthy_items": 26619,
+        "Precentage_of_Healthy_Items": 56.17,
+        "Avg_Price_Healthy": 23.18,
+        "Avg_Price_Unhealthy": 27.18,
+        "Category_Counts": {
+            "Main": 19587,
+            "Meal": 2356,
+            "Side": 6797,
+            "Dessert": 5376,
+            "Drink": 13272
+        },
+        "Category_Healthy_Counts": {
+            "Main": 14189,
+            "Meal": 1123,
+            "Side": 3231,
+            "Dessert": 1229,
+            "Drink": 6847
+        }
+    },
+    {
+        "NeighborhoodName": "Al Sulaymanaya",
+        "District": "Al Sulaymanaya",
+        "Total_Count": 1248,
+        "Healthy_Count": 676,
+        "Percentage": 54.17,
+        "All_items": 48672,
+        "Healthy_items": 26186,
+        "Precentage_of_Healthy_Items": 53.8,
+        "Avg_Price_Healthy": 25.47,
+        "Avg_Price_Unhealthy": 29.47,
+        "Category_Counts": {
+            "Main": 20071,
+            "Meal": 2406,
+            "Side": 7715,
+            "Dessert": 5882,
+            "Drink": 12598
+        },
+        "Category_Healthy_Counts": {
+            "Main": 14067,
+            "Meal": 1085,
+            "Side": 3525,
+            "Dessert": 1255,
+            "Drink": 6254
+        }
+    },
+    {
+        "NeighborhoodName": "Al Suwaidi",
+        "District": "Al Suwaidi",
+        "Total_Count": 916,
+        "Healthy_Count": 509,
+        "Percentage": 55.57,
+        "All_items": 36054,
+        "Healthy_items": 19763,
+        "Precentage_of_Healthy_Items": 54.81,
+        "Avg_Price_Healthy": 20.74,
+        "Avg_Price_Unhealthy": 25.21,
+        "Category_Counts": {
+            "Main": 13869,
+            "Meal": 1803,
+            "Side": 4985,
+            "Dessert": 4229,
+            "Drink": 11168
+        },
+        "Category_Healthy_Counts": {
+            "Main": 9890,
+            "Meal": 800,
+            "Side": 2435,
+            "Dessert": 953,
+            "Drink": 5685
+        }
+    },
+    {
+        "NeighborhoodName": "Al Ta'awun",
+        "District": "Al Ta'awun",
+        "Total_Count": 1390,
+        "Healthy_Count": 782,
+        "Percentage": 56.26,
+        "All_items": 47677,
+        "Healthy_items": 25626,
+        "Precentage_of_Healthy_Items": 53.75,
+        "Avg_Price_Healthy": 25.38,
+        "Avg_Price_Unhealthy": 31.37,
+        "Category_Counts": {
+            "Main": 19147,
+            "Meal": 2428,
+            "Side": 7628,
+            "Dessert": 6514,
+            "Drink": 11960
+        },
+        "Category_Healthy_Counts": {
+            "Main": 13681,
+            "Meal": 1084,
+            "Side": 3510,
+            "Dessert": 1353,
+            "Drink": 5998
+        }
+    },
+    {
+        "NeighborhoodName": "Al 'Uraija",
+        "District": "Al 'Uraija",
+        "Total_Count": 1275,
+        "Healthy_Count": 705,
+        "Percentage": 55.29,
+        "All_items": 48805,
+        "Healthy_items": 26420,
+        "Precentage_of_Healthy_Items": 54.13,
+        "Avg_Price_Healthy": 24.13,
+        "Avg_Price_Unhealthy": 27.47,
+        "Category_Counts": {
+            "Main": 20371,
+            "Meal": 2559,
+            "Side": 7381,
+            "Dessert": 5680,
+            "Drink": 12814
+        },
+        "Category_Healthy_Counts": {
+            "Main": 14448,
+            "Meal": 1101,
+            "Side": 3424,
+            "Dessert": 1223,
+            "Drink": 6224
+        }
+    },
+    {
+        "NeighborhoodName": "Al Uyaynah",
+        "District": "Al Uyaynah",
+        "Total_Count": 14,
+        "Healthy_Count": 6,
+        "Percentage": 42.86,
+        "All_items": 596,
+        "Healthy_items": 294,
+        "Precentage_of_Healthy_Items": 49.33,
+        "Avg_Price_Healthy": 11.84,
+        "Avg_Price_Unhealthy": 18.73,
+        "Category_Counts": {
+            "Main": 182,
+            "Meal": 100,
+            "Side": 112,
+            "Dessert": 75,
+            "Drink": 127
+        },
+        "Category_Healthy_Counts": {
+            "Main": 115,
+            "Meal": 40,
+            "Side": 56,
+            "Dessert": 14,
+            "Drink": 69
+        }
+    },
+    {
+        "NeighborhoodName": "Al Wadi",
+        "District": "Al Wadi",
+        "Total_Count": 1314,
+        "Healthy_Count": 751,
+        "Percentage": 57.15,
+        "All_items": 42698,
+        "Healthy_items": 23120,
+        "Precentage_of_Healthy_Items": 54.15,
+        "Avg_Price_Healthy": 24.59,
+        "Avg_Price_Unhealthy": 31.26,
+        "Category_Counts": {
+            "Main": 17005,
+            "Meal": 2139,
+            "Side": 6891,
+            "Dessert": 5819,
+            "Drink": 10844
+        },
+        "Category_Healthy_Counts": {
+            "Main": 12157,
+            "Meal": 914,
+            "Side": 3198,
+            "Dessert": 1186,
+            "Drink": 5665
+        }
+    },
+    {
+        "NeighborhoodName": "Al Waha",
+        "District": "Al Waha",
+        "Total_Count": 1324,
+        "Healthy_Count": 719,
+        "Percentage": 54.31,
+        "All_items": 47524,
+        "Healthy_items": 25426,
+        "Precentage_of_Healthy_Items": 53.5,
+        "Avg_Price_Healthy": 25.24,
+        "Avg_Price_Unhealthy": 30.39,
+        "Category_Counts": {
+            "Main": 18859,
+            "Meal": 2594,
+            "Side": 7713,
+            "Dessert": 6147,
+            "Drink": 12211
+        },
+        "Category_Healthy_Counts": {
+            "Main": 13209,
+            "Meal": 1150,
+            "Side": 3436,
+            "Dessert": 1350,
+            "Drink": 6281
+        }
+    },
+    {
+        "NeighborhoodName": "Al Wisham",
+        "District": "Al Wisham",
+        "Total_Count": 1341,
+        "Healthy_Count": 722,
+        "Percentage": 53.84,
+        "All_items": 54621,
+        "Healthy_items": 29531,
+        "Precentage_of_Healthy_Items": 54.07,
+        "Avg_Price_Healthy": 23.81,
+        "Avg_Price_Unhealthy": 28.6,
+        "Category_Counts": {
+            "Main": 21205,
+            "Meal": 2898,
+            "Side": 7964,
+            "Dessert": 6447,
+            "Drink": 16107
+        },
+        "Category_Healthy_Counts": {
+            "Main": 15018,
+            "Meal": 1245,
+            "Side": 3714,
+            "Dessert": 1422,
+            "Drink": 8132
+        }
+    },
+    {
+        "NeighborhoodName": "Al Wizarat",
+        "District": "Al Wizarat",
+        "Total_Count": 1322,
+        "Healthy_Count": 754,
+        "Percentage": 57.03,
+        "All_items": 52928,
+        "Healthy_items": 29130,
+        "Precentage_of_Healthy_Items": 55.04,
+        "Avg_Price_Healthy": 24.21,
+        "Avg_Price_Unhealthy": 28.61,
+        "Category_Counts": {
+            "Main": 21587,
+            "Meal": 2652,
+            "Side": 7750,
+            "Dessert": 6295,
+            "Drink": 14644
+        },
+        "Category_Healthy_Counts": {
+            "Main": 15457,
+            "Meal": 1206,
+            "Side": 3630,
+            "Dessert": 1394,
+            "Drink": 7443
+        }
+    },
+    {
+        "NeighborhoodName": "Al Wurud",
+        "District": "Al Wurud",
+        "Total_Count": 1367,
+        "Healthy_Count": 771,
+        "Percentage": 56.4,
+        "All_items": 49970,
+        "Healthy_items": 27228,
+        "Precentage_of_Healthy_Items": 54.49,
+        "Avg_Price_Healthy": 25.11,
+        "Avg_Price_Unhealthy": 30.35,
+        "Category_Counts": {
+            "Main": 20147,
+            "Meal": 2397,
+            "Side": 7745,
+            "Dessert": 6490,
+            "Drink": 13191
+        },
+        "Category_Healthy_Counts": {
+            "Main": 14324,
+            "Meal": 1081,
+            "Side": 3546,
+            "Dessert": 1438,
+            "Drink": 6839
+        }
+    },
+    {
+        "NeighborhoodName": "Al Wusaita",
+        "District": "Al Wusaita",
+        "Total_Count": 1127,
+        "Healthy_Count": 636,
+        "Percentage": 56.43,
+        "All_items": 45757,
+        "Healthy_items": 25100,
+        "Precentage_of_Healthy_Items": 54.85,
+        "Avg_Price_Healthy": 23.35,
+        "Avg_Price_Unhealthy": 27.67,
+        "Category_Counts": {
+            "Main": 18347,
+            "Meal": 2290,
+            "Side": 6447,
+            "Dessert": 5240,
+            "Drink": 13433
+        },
+        "Category_Healthy_Counts": {
+            "Main": 12998,
+            "Meal": 998,
+            "Side": 3065,
+            "Dessert": 1176,
+            "Drink": 6863
+        }
+    },
+    {
+        "NeighborhoodName": "Al Yarmok",
+        "District": "Al Yarmok",
+        "Total_Count": 1058,
+        "Healthy_Count": 604,
+        "Percentage": 57.09,
+        "All_items": 35858,
+        "Healthy_items": 19153,
+        "Precentage_of_Healthy_Items": 53.41,
+        "Avg_Price_Healthy": 22.55,
+        "Avg_Price_Unhealthy": 28.77,
+        "Category_Counts": {
+            "Main": 14420,
+            "Meal": 2019,
+            "Side": 5767,
+            "Dessert": 4517,
+            "Drink": 9135
+        },
+        "Category_Healthy_Counts": {
+            "Main": 10095,
+            "Meal": 868,
+            "Side": 2658,
+            "Dessert": 908,
+            "Drink": 4624
+        }
+    },
+    {
+        "NeighborhoodName": "Al Zahra",
+        "District": "Al Zahra",
+        "Total_Count": 1491,
+        "Healthy_Count": 868,
+        "Percentage": 58.22,
+        "All_items": 57716,
+        "Healthy_items": 31846,
+        "Precentage_of_Healthy_Items": 55.18,
+        "Avg_Price_Healthy": 23.96,
+        "Avg_Price_Unhealthy": 28.96,
+        "Category_Counts": {
+            "Main": 24394,
+            "Meal": 2856,
+            "Side": 9011,
+            "Dessert": 7147,
+            "Drink": 14308
+        },
+        "Category_Healthy_Counts": {
+            "Main": 17645,
+            "Meal": 1307,
+            "Side": 4237,
+            "Dessert": 1514,
+            "Drink": 7143
+        }
+    },
+    {
+        "NeighborhoodName": "An Nadhim",
+        "District": "An Nadhim",
+        "Total_Count": 84,
+        "Healthy_Count": 41,
+        "Percentage": 48.81,
+        "All_items": 3647,
+        "Healthy_items": 1787,
+        "Precentage_of_Healthy_Items": 49.0,
+        "Avg_Price_Healthy": 18.81,
+        "Avg_Price_Unhealthy": 23.05,
+        "Category_Counts": {
+            "Main": 1319,
+            "Meal": 180,
+            "Side": 581,
+            "Dessert": 444,
+            "Drink": 1123
+        },
+        "Category_Healthy_Counts": {
+            "Main": 987,
+            "Meal": 67,
+            "Side": 267,
+            "Dessert": 70,
+            "Drink": 396
+        }
+    },
+    {
+        "NeighborhoodName": "An Nakhil",
+        "District": "An Nakhil",
+        "Total_Count": 1591,
+        "Healthy_Count": 905,
+        "Percentage": 56.88,
+        "All_items": 55174,
+        "Healthy_items": 30297,
+        "Precentage_of_Healthy_Items": 54.91,
+        "Avg_Price_Healthy": 25.47,
+        "Avg_Price_Unhealthy": 30.66,
+        "Category_Counts": {
+            "Main": 22155,
+            "Meal": 2824,
+            "Side": 8868,
+            "Dessert": 7114,
+            "Drink": 14213
+        },
+        "Category_Healthy_Counts": {
+            "Main": 15981,
+            "Meal": 1326,
+            "Side": 4114,
+            "Dessert": 1528,
+            "Drink": 7348
+        }
+    },
+    {
+        "NeighborhoodName": "An Nasim Al Gharbi",
+        "District": "An Nasim Al Gharbi",
+        "Total_Count": 846,
+        "Healthy_Count": 485,
+        "Percentage": 57.33,
+        "All_items": 30805,
+        "Healthy_items": 16260,
+        "Precentage_of_Healthy_Items": 52.78,
+        "Avg_Price_Healthy": 22.61,
+        "Avg_Price_Unhealthy": 26.44,
+        "Category_Counts": {
+            "Main": 11289,
+            "Meal": 1289,
+            "Side": 4085,
+            "Dessert": 4472,
+            "Drink": 9670
+        },
+        "Category_Healthy_Counts": {
+            "Main": 8431,
+            "Meal": 564,
+            "Side": 1993,
+            "Dessert": 914,
+            "Drink": 4358
+        }
+    },
+    {
+        "NeighborhoodName": "An Nasiriyah",
+        "District": "An Nasiriyah",
+        "Total_Count": 1291,
+        "Healthy_Count": 737,
+        "Percentage": 57.09,
+        "All_items": 51711,
+        "Healthy_items": 28566,
+        "Precentage_of_Healthy_Items": 55.24,
+        "Avg_Price_Healthy": 23.86,
+        "Avg_Price_Unhealthy": 28.49,
+        "Category_Counts": {
+            "Main": 20575,
+            "Meal": 2693,
+            "Side": 7409,
+            "Dessert": 6152,
+            "Drink": 14882
+        },
+        "Category_Healthy_Counts": {
+            "Main": 14956,
+            "Meal": 1254,
+            "Side": 3525,
+            "Dessert": 1373,
+            "Drink": 7458
+        }
+    },
+    {
+        "NeighborhoodName": "Aqiq",
+        "District": "Aqiq",
+        "Total_Count": 1353,
+        "Healthy_Count": 774,
+        "Percentage": 57.21,
+        "All_items": 46922,
+        "Healthy_items": 25593,
+        "Precentage_of_Healthy_Items": 54.54,
+        "Avg_Price_Healthy": 24.48,
+        "Avg_Price_Unhealthy": 30.44,
+        "Category_Counts": {
+            "Main": 17620,
+            "Meal": 2175,
+            "Side": 6910,
+            "Dessert": 7110,
+            "Drink": 13107
+        },
+        "Category_Healthy_Counts": {
+            "Main": 12829,
+            "Meal": 1014,
+            "Side": 3300,
+            "Dessert": 1621,
+            "Drink": 6829
+        }
+    },
+    {
+        "NeighborhoodName": "Arid",
+        "District": "Arid",
+        "Total_Count": 26,
+        "Healthy_Count": 13,
+        "Percentage": 50.0,
+        "All_items": 871,
+        "Healthy_items": 460,
+        "Precentage_of_Healthy_Items": 52.81,
+        "Avg_Price_Healthy": 17.18,
+        "Avg_Price_Unhealthy": 17.64,
+        "Category_Counts": {
+            "Main": 311,
+            "Meal": 31,
+            "Side": 123,
+            "Dessert": 67,
+            "Drink": 339
+        },
+        "Category_Healthy_Counts": {
+            "Main": 228,
+            "Meal": 11,
+            "Side": 67,
+            "Dessert": 13,
+            "Drink": 141
+        }
+    },
+    {
+        "NeighborhoodName": "Ar Rayyan",
+        "District": "Ar Rayyan",
+        "Total_Count": 1258,
+        "Healthy_Count": 718,
+        "Percentage": 57.07,
+        "All_items": 46676,
+        "Healthy_items": 25015,
+        "Precentage_of_Healthy_Items": 53.59,
+        "Avg_Price_Healthy": 22.73,
+        "Avg_Price_Unhealthy": 28.18,
+        "Category_Counts": {
+            "Main": 19163,
+            "Meal": 2419,
+            "Side": 7163,
+            "Dessert": 5864,
+            "Drink": 12067
+        },
+        "Category_Healthy_Counts": {
+            "Main": 13467,
+            "Meal": 1038,
+            "Side": 3349,
+            "Dessert": 1225,
+            "Drink": 5936
+        }
+    },
+    {
+        "NeighborhoodName": "Ar Rihab",
+        "District": "Ar Rihab",
+        "Total_Count": 934,
+        "Healthy_Count": 508,
+        "Percentage": 54.39,
+        "All_items": 30654,
+        "Healthy_items": 16446,
+        "Precentage_of_Healthy_Items": 53.65,
+        "Avg_Price_Healthy": 25.52,
+        "Avg_Price_Unhealthy": 31.06,
+        "Category_Counts": {
+            "Main": 11854,
+            "Meal": 1619,
+            "Side": 4908,
+            "Dessert": 4039,
+            "Drink": 8234
+        },
+        "Category_Healthy_Counts": {
+            "Main": 8453,
+            "Meal": 664,
+            "Side": 2272,
+            "Dessert": 862,
+            "Drink": 4195
+        }
+    },
+    {
+        "NeighborhoodName": "Ash Shifa",
+        "District": "Ash Shifa",
+        "Total_Count": 601,
+        "Healthy_Count": 346,
+        "Percentage": 57.57,
+        "All_items": 24928,
+        "Healthy_items": 13648,
+        "Precentage_of_Healthy_Items": 54.75,
+        "Avg_Price_Healthy": 21.01,
+        "Avg_Price_Unhealthy": 24.91,
+        "Category_Counts": {
+            "Main": 9417,
+            "Meal": 1436,
+            "Side": 3392,
+            "Dessert": 2613,
+            "Drink": 8070
+        },
+        "Category_Healthy_Counts": {
+            "Main": 6966,
+            "Meal": 626,
+            "Side": 1682,
+            "Dessert": 549,
+            "Drink": 3825
+        }
+    },
+    {
+        "NeighborhoodName": "Ash Shuhada",
+        "District": "Ash Shuhada",
+        "Total_Count": 1346,
+        "Healthy_Count": 741,
+        "Percentage": 55.05,
+        "All_items": 45284,
+        "Healthy_items": 24035,
+        "Precentage_of_Healthy_Items": 53.08,
+        "Avg_Price_Healthy": 23.75,
+        "Avg_Price_Unhealthy": 29.64,
+        "Category_Counts": {
+            "Main": 17506,
+            "Meal": 2311,
+            "Side": 7215,
+            "Dessert": 5870,
+            "Drink": 12382
+        },
+        "Category_Healthy_Counts": {
+            "Main": 12429,
+            "Meal": 1047,
+            "Side": 3341,
+            "Dessert": 1248,
+            "Drink": 5970
+        }
+    },
+    {
+        "NeighborhoodName": "As Salam",
+        "District": "As Salam",
+        "Total_Count": 671,
+        "Healthy_Count": 393,
+        "Percentage": 58.57,
+        "All_items": 24383,
+        "Healthy_items": 12914,
+        "Precentage_of_Healthy_Items": 52.96,
+        "Avg_Price_Healthy": 23.53,
+        "Avg_Price_Unhealthy": 26.77,
+        "Category_Counts": {
+            "Main": 9175,
+            "Meal": 1246,
+            "Side": 3686,
+            "Dessert": 3229,
+            "Drink": 7047
+        },
+        "Category_Healthy_Counts": {
+            "Main": 6794,
+            "Meal": 595,
+            "Side": 1807,
+            "Dessert": 660,
+            "Drink": 3058
+        }
+    },
+    {
+        "NeighborhoodName": "As Sulay",
+        "District": "As Sulay",
+        "Total_Count": 737,
+        "Healthy_Count": 445,
+        "Percentage": 60.38,
+        "All_items": 30076,
+        "Healthy_items": 16745,
+        "Precentage_of_Healthy_Items": 55.68,
+        "Avg_Price_Healthy": 21.46,
+        "Avg_Price_Unhealthy": 25.15,
+        "Category_Counts": {
+            "Main": 11719,
+            "Meal": 1434,
+            "Side": 4053,
+            "Dessert": 3636,
+            "Drink": 9234
+        },
+        "Category_Healthy_Counts": {
+            "Main": 8910,
+            "Meal": 629,
+            "Side": 2038,
+            "Dessert": 801,
+            "Drink": 4367
+        }
+    },
+    {
+        "NeighborhoodName": "As Suwaidi Al Gharabi",
+        "District": "As Suwaidi Al Gharabi",
+        "Total_Count": 1076,
+        "Healthy_Count": 603,
+        "Percentage": 56.04,
+        "All_items": 43555,
+        "Healthy_items": 23661,
+        "Precentage_of_Healthy_Items": 54.32,
+        "Avg_Price_Healthy": 20.74,
+        "Avg_Price_Unhealthy": 25.55,
+        "Category_Counts": {
+            "Main": 15889,
+            "Meal": 2137,
+            "Side": 5457,
+            "Dessert": 5351,
+            "Drink": 14721
+        },
+        "Category_Healthy_Counts": {
+            "Main": 11339,
+            "Meal": 950,
+            "Side": 2659,
+            "Dessert": 1325,
+            "Drink": 7388
+        }
+    },
+    {
+        "NeighborhoodName": "Badr",
+        "District": "Badr",
+        "Total_Count": 331,
+        "Healthy_Count": 193,
+        "Percentage": 58.31,
+        "All_items": 14980,
+        "Healthy_items": 8615,
+        "Precentage_of_Healthy_Items": 57.51,
+        "Avg_Price_Healthy": 21.6,
+        "Avg_Price_Unhealthy": 24.61,
+        "Category_Counts": {
+            "Main": 4922,
+            "Meal": 941,
+            "Side": 1837,
+            "Dessert": 1626,
+            "Drink": 5654
+        },
+        "Category_Healthy_Counts": {
+            "Main": 3889,
+            "Meal": 437,
+            "Side": 1027,
+            "Dessert": 371,
+            "Drink": 2891
+        }
+    },
+    {
+        "NeighborhoodName": "Banban",
+        "District": "Banban",
+        "Total_Count": 165,
+        "Healthy_Count": 93,
+        "Percentage": 56.36,
+        "All_items": 5564,
+        "Healthy_items": 2942,
+        "Precentage_of_Healthy_Items": 52.88,
+        "Avg_Price_Healthy": 19.14,
+        "Avg_Price_Unhealthy": 26.52,
+        "Category_Counts": {
+            "Main": 2079,
+            "Meal": 367,
+            "Side": 784,
+            "Dessert": 770,
+            "Drink": 1564
+        },
+        "Category_Healthy_Counts": {
+            "Main": 1526,
+            "Meal": 113,
+            "Side": 353,
+            "Dessert": 155,
+            "Drink": 795
+        }
+    },
+    {
+        "NeighborhoodName": "Boulevard",
+        "District": "Boulevard",
+        "Total_Count": 1003,
+        "Healthy_Count": 555,
+        "Percentage": 55.33,
+        "All_items": 32627,
+        "Healthy_items": 17392,
+        "Precentage_of_Healthy_Items": 53.31,
+        "Avg_Price_Healthy": 25.3,
+        "Avg_Price_Unhealthy": 30.41,
+        "Category_Counts": {
+            "Main": 12967,
+            "Meal": 1887,
+            "Side": 5116,
+            "Dessert": 4243,
+            "Drink": 8414
+        },
+        "Category_Healthy_Counts": {
+            "Main": 9005,
+            "Meal": 782,
+            "Side": 2297,
+            "Dessert": 921,
+            "Drink": 4387
+        }
+    },
+    {
+        "NeighborhoodName": "Dahiat Namar",
+        "District": "Dahiat Namar",
+        "Total_Count": 14,
+        "Healthy_Count": 7,
+        "Percentage": 50.0,
+        "All_items": 643,
+        "Healthy_items": 315,
+        "Precentage_of_Healthy_Items": 48.99,
+        "Avg_Price_Healthy": 21.23,
+        "Avg_Price_Unhealthy": 19.33,
+        "Category_Counts": {
+            "Main": 215,
+            "Meal": 41,
+            "Side": 56,
+            "Dessert": 100,
+            "Drink": 231
+        },
+        "Category_Healthy_Counts": {
+            "Main": 181,
+            "Meal": 20,
+            "Side": 28,
+            "Dessert": 31,
+            "Drink": 55
+        }
+    },
+    {
+        "NeighborhoodName": "Dar Al Baida",
+        "District": "Dar Al Baida",
+        "Total_Count": 522,
+        "Healthy_Count": 316,
+        "Percentage": 60.54,
+        "All_items": 23595,
+        "Healthy_items": 13121,
+        "Precentage_of_Healthy_Items": 55.61,
+        "Avg_Price_Healthy": 20.63,
+        "Avg_Price_Unhealthy": 24.35,
+        "Category_Counts": {
+            "Main": 8796,
+            "Meal": 1269,
+            "Side": 2845,
+            "Dessert": 2846,
+            "Drink": 7839
+        },
+        "Category_Healthy_Counts": {
+            "Main": 6719,
+            "Meal": 586,
+            "Side": 1446,
+            "Dessert": 660,
+            "Drink": 3710
+        }
+    },
+    {
+        "NeighborhoodName": "Dhahrat Al Badiah",
+        "District": "Dhahrat Al Badiah",
+        "Total_Count": 800,
+        "Healthy_Count": 436,
+        "Percentage": 54.5,
+        "All_items": 32214,
+        "Healthy_items": 17581,
+        "Precentage_of_Healthy_Items": 54.58,
+        "Avg_Price_Healthy": 20.1,
+        "Avg_Price_Unhealthy": 25.63,
+        "Category_Counts": {
+            "Main": 12329,
+            "Meal": 1896,
+            "Side": 4362,
+            "Dessert": 3597,
+            "Drink": 10030
+        },
+        "Category_Healthy_Counts": {
+            "Main": 8635,
+            "Meal": 830,
+            "Side": 2127,
+            "Dessert": 783,
+            "Drink": 5206
+        }
+    },
+    {
+        "NeighborhoodName": "Dhahrat Laban",
+        "District": "Dhahrat Laban",
+        "Total_Count": 420,
+        "Healthy_Count": 198,
+        "Percentage": 47.14,
+        "All_items": 15478,
+        "Healthy_items": 8119,
+        "Precentage_of_Healthy_Items": 52.46,
+        "Avg_Price_Healthy": 22.15,
+        "Avg_Price_Unhealthy": 26.03,
+        "Category_Counts": {
+            "Main": 5975,
+            "Meal": 1075,
+            "Side": 2450,
+            "Dessert": 1557,
+            "Drink": 4421
+        },
+        "Category_Healthy_Counts": {
+            "Main": 3933,
+            "Meal": 534,
+            "Side": 1176,
+            "Dessert": 279,
+            "Drink": 2197
+        }
+    },
+    {
+        "NeighborhoodName": "Dirab",
+        "District": "Dirab",
+        "Total_Count": 292,
+        "Healthy_Count": 157,
+        "Percentage": 53.77,
+        "All_items": 10365,
+        "Healthy_items": 5425,
+        "Precentage_of_Healthy_Items": 52.34,
+        "Avg_Price_Healthy": 19.65,
+        "Avg_Price_Unhealthy": 25.77,
+        "Category_Counts": {
+            "Main": 3677,
+            "Meal": 481,
+            "Side": 1315,
+            "Dessert": 1596,
+            "Drink": 3296
+        },
+        "Category_Healthy_Counts": {
+            "Main": 2760,
+            "Meal": 239,
+            "Side": 662,
+            "Dessert": 286,
+            "Drink": 1478
+        }
+    },
+    {
+        "NeighborhoodName": "Dirah",
+        "District": "Dirah",
+        "Total_Count": 1253,
+        "Healthy_Count": 706,
+        "Percentage": 56.34,
+        "All_items": 51773,
+        "Healthy_items": 28443,
+        "Precentage_of_Healthy_Items": 54.94,
+        "Avg_Price_Healthy": 23.02,
+        "Avg_Price_Unhealthy": 27.52,
+        "Category_Counts": {
+            "Main": 20665,
+            "Meal": 2607,
+            "Side": 7602,
+            "Dessert": 5817,
+            "Drink": 15082
+        },
+        "Category_Healthy_Counts": {
+            "Main": 14536,
+            "Meal": 1159,
+            "Side": 3622,
+            "Dessert": 1397,
+            "Drink": 7729
+        }
+    },
+    {
+        "NeighborhoodName": "Dubiyah",
+        "District": "Dubiyah",
+        "Total_Count": 1204,
+        "Healthy_Count": 675,
+        "Percentage": 56.06,
+        "All_items": 50063,
+        "Healthy_items": 27196,
+        "Precentage_of_Healthy_Items": 54.32,
+        "Avg_Price_Healthy": 20.69,
+        "Avg_Price_Unhealthy": 26.89,
+        "Category_Counts": {
+            "Main": 18624,
+            "Meal": 1883,
+            "Side": 5970,
+            "Dessert": 6867,
+            "Drink": 16719
+        },
+        "Category_Healthy_Counts": {
+            "Main": 13485,
+            "Meal": 955,
+            "Side": 2804,
+            "Dessert": 1562,
+            "Drink": 8390
+        }
+    },
+    {
+        "NeighborhoodName": "Duraihmiyah",
+        "District": "Duraihmiyah",
+        "Total_Count": 848,
+        "Healthy_Count": 479,
+        "Percentage": 56.49,
+        "All_items": 34685,
+        "Healthy_items": 19052,
+        "Precentage_of_Healthy_Items": 54.93,
+        "Avg_Price_Healthy": 22.04,
+        "Avg_Price_Unhealthy": 26.2,
+        "Category_Counts": {
+            "Main": 14031,
+            "Meal": 1853,
+            "Side": 4803,
+            "Dessert": 3766,
+            "Drink": 10232
+        },
+        "Category_Healthy_Counts": {
+            "Main": 10085,
+            "Meal": 825,
+            "Side": 2277,
+            "Dessert": 838,
+            "Drink": 5027
+        }
+    },
+    {
+        "NeighborhoodName": "East An Nasim",
+        "District": "East An Nasim",
+        "Total_Count": 824,
+        "Healthy_Count": 483,
+        "Percentage": 58.62,
+        "All_items": 30946,
+        "Healthy_items": 16822,
+        "Precentage_of_Healthy_Items": 54.36,
+        "Avg_Price_Healthy": 21.22,
+        "Avg_Price_Unhealthy": 25.79,
+        "Category_Counts": {
+            "Main": 11786,
+            "Meal": 1452,
+            "Side": 4562,
+            "Dessert": 3934,
+            "Drink": 9212
+        },
+        "Category_Healthy_Counts": {
+            "Main": 8816,
+            "Meal": 657,
+            "Side": 2287,
+            "Dessert": 780,
+            "Drink": 4282
+        }
+    },
+    {
+        "NeighborhoodName": "Faiha",
+        "District": "Faiha",
+        "Total_Count": 825,
+        "Healthy_Count": 491,
+        "Percentage": 59.52,
+        "All_items": 32211,
+        "Healthy_items": 17154,
+        "Precentage_of_Healthy_Items": 53.26,
+        "Avg_Price_Healthy": 22.54,
+        "Avg_Price_Unhealthy": 25.73,
+        "Category_Counts": {
+            "Main": 12690,
+            "Meal": 1705,
+            "Side": 4752,
+            "Dessert": 4026,
+            "Drink": 9038
+        },
+        "Category_Healthy_Counts": {
+            "Main": 9377,
+            "Meal": 749,
+            "Side": 2308,
+            "Dessert": 782,
+            "Drink": 3938
+        }
+    },
+    {
+        "NeighborhoodName": "Faisaliyah",
+        "District": "Faisaliyah",
+        "Total_Count": 1005,
+        "Healthy_Count": 552,
+        "Percentage": 54.93,
+        "All_items": 40355,
+        "Healthy_items": 21781,
+        "Precentage_of_Healthy_Items": 53.97,
+        "Avg_Price_Healthy": 21.92,
+        "Avg_Price_Unhealthy": 26.23,
+        "Category_Counts": {
+            "Main": 17277,
+            "Meal": 2335,
+            "Side": 6110,
+            "Dessert": 4466,
+            "Drink": 10167
+        },
+        "Category_Healthy_Counts": {
+            "Main": 12226,
+            "Meal": 1018,
+            "Side": 2831,
+            "Dessert": 934,
+            "Drink": 4772
+        }
+    },
+    {
+        "NeighborhoodName": "Faruq",
+        "District": "Faruq",
+        "Total_Count": 979,
+        "Healthy_Count": 564,
+        "Percentage": 57.61,
+        "All_items": 39341,
+        "Healthy_items": 21900,
+        "Precentage_of_Healthy_Items": 55.67,
+        "Avg_Price_Healthy": 21.97,
+        "Avg_Price_Unhealthy": 26.64,
+        "Category_Counts": {
+            "Main": 16050,
+            "Meal": 2146,
+            "Side": 5910,
+            "Dessert": 4566,
+            "Drink": 10669
+        },
+        "Category_Healthy_Counts": {
+            "Main": 11789,
+            "Meal": 962,
+            "Side": 2844,
+            "Dessert": 986,
+            "Drink": 5319
+        }
+    },
+    {
+        "NeighborhoodName": "Ghadir",
+        "District": "Ghadir",
+        "Total_Count": 1594,
+        "Healthy_Count": 882,
+        "Percentage": 55.33,
+        "All_items": 53336,
+        "Healthy_items": 28805,
+        "Precentage_of_Healthy_Items": 54.01,
+        "Avg_Price_Healthy": 25.86,
+        "Avg_Price_Unhealthy": 31.54,
+        "Category_Counts": {
+            "Main": 21237,
+            "Meal": 2567,
+            "Side": 8836,
+            "Dessert": 7238,
+            "Drink": 13458
+        },
+        "Category_Healthy_Counts": {
+            "Main": 15057,
+            "Meal": 1115,
+            "Side": 4050,
+            "Dessert": 1541,
+            "Drink": 7042
+        }
+    },
+    {
+        "NeighborhoodName": "Ghirnatah",
+        "District": "Ghirnatah",
+        "Total_Count": 1196,
+        "Healthy_Count": 669,
+        "Percentage": 55.94,
+        "All_items": 39482,
+        "Healthy_items": 20832,
+        "Precentage_of_Healthy_Items": 52.76,
+        "Avg_Price_Healthy": 23.21,
+        "Avg_Price_Unhealthy": 29.43,
+        "Category_Counts": {
+            "Main": 15573,
+            "Meal": 2116,
+            "Side": 6192,
+            "Dessert": 5279,
+            "Drink": 10322
+        },
+        "Category_Healthy_Counts": {
+            "Main": 10939,
+            "Meal": 907,
+            "Side": 2899,
+            "Dessert": 1038,
+            "Drink": 5049
+        }
+    },
+    {
+        "NeighborhoodName": "Ghubairuh",
+        "District": "Ghubairuh",
+        "Total_Count": 1089,
+        "Healthy_Count": 617,
+        "Percentage": 56.66,
+        "All_items": 44347,
+        "Healthy_items": 24574,
+        "Precentage_of_Healthy_Items": 55.41,
+        "Avg_Price_Healthy": 23.0,
+        "Avg_Price_Unhealthy": 26.69,
+        "Category_Counts": {
+            "Main": 18216,
+            "Meal": 2503,
+            "Side": 6761,
+            "Dessert": 4600,
+            "Drink": 12267
+        },
+        "Category_Healthy_Counts": {
+            "Main": 12967,
+            "Meal": 1090,
+            "Side": 3277,
+            "Dessert": 1093,
+            "Drink": 6147
+        }
+    },
+    {
+        "NeighborhoodName": "Hada",
+        "District": "Hada",
+        "Total_Count": 1209,
+        "Healthy_Count": 662,
+        "Percentage": 54.76,
+        "All_items": 49614,
+        "Healthy_items": 26992,
+        "Precentage_of_Healthy_Items": 54.4,
+        "Avg_Price_Healthy": 24.12,
+        "Avg_Price_Unhealthy": 28.87,
+        "Category_Counts": {
+            "Main": 19370,
+            "Meal": 2541,
+            "Side": 7219,
+            "Dessert": 5782,
+            "Drink": 14702
+        },
+        "Category_Healthy_Counts": {
+            "Main": 13695,
+            "Meal": 1143,
+            "Side": 3395,
+            "Dessert": 1274,
+            "Drink": 7485
+        }
+    },
+    {
+        "NeighborhoodName": "Hamra",
+        "District": "Hamra",
+        "Total_Count": 1312,
+        "Healthy_Count": 748,
+        "Percentage": 57.01,
+        "All_items": 46531,
+        "Healthy_items": 25052,
+        "Precentage_of_Healthy_Items": 53.84,
+        "Avg_Price_Healthy": 21.9,
+        "Avg_Price_Unhealthy": 28.4,
+        "Category_Counts": {
+            "Main": 18206,
+            "Meal": 2262,
+            "Side": 6753,
+            "Dessert": 6300,
+            "Drink": 13010
+        },
+        "Category_Healthy_Counts": {
+            "Main": 12917,
+            "Meal": 1083,
+            "Side": 3123,
+            "Dessert": 1402,
+            "Drink": 6527
+        }
+    },
+    {
+        "NeighborhoodName": "Hateen",
+        "District": "Hateen",
+        "Total_Count": 1196,
+        "Healthy_Count": 662,
+        "Percentage": 55.35,
+        "All_items": 39653,
+        "Healthy_items": 21703,
+        "Precentage_of_Healthy_Items": 54.73,
+        "Avg_Price_Healthy": 24.07,
+        "Avg_Price_Unhealthy": 29.66,
+        "Category_Counts": {
+            "Main": 15609,
+            "Meal": 2296,
+            "Side": 6351,
+            "Dessert": 5013,
+            "Drink": 10384
+        },
+        "Category_Healthy_Counts": {
+            "Main": 11039,
+            "Meal": 1019,
+            "Side": 2974,
+            "Dessert": 1177,
+            "Drink": 5494
+        }
+    },
+    {
+        "NeighborhoodName": "Hyt",
+        "District": "Hyt",
+        "Total_Count": 2,
+        "Healthy_Count": 1,
+        "Percentage": 50.0,
+        "All_items": 46,
+        "Healthy_items": 30,
+        "Precentage_of_Healthy_Items": 65.22,
+        "Avg_Price_Healthy": 7.9,
+        "Avg_Price_Unhealthy": 23.56,
+        "Category_Counts": {
+            "Main": 24,
+            "Meal": 1,
+            "Side": 6,
+            "Dessert": 5,
+            "Drink": 10
+        },
+        "Category_Healthy_Counts": {
+            "Main": 18,
+            "Meal": 0,
+            "Side": 5,
+            "Dessert": 0,
+            "Drink": 7
+        }
+    },
+    {
+        "NeighborhoodName": "Imam Muhammad Ibn Saud Islamic University",
+        "District": "Imam Muhammad Ibn Saud Islamic University",
+        "Total_Count": 1261,
+        "Healthy_Count": 705,
+        "Percentage": 55.91,
+        "All_items": 44528,
+        "Healthy_items": 23772,
+        "Precentage_of_Healthy_Items": 53.39,
+        "Avg_Price_Healthy": 22.6,
+        "Avg_Price_Unhealthy": 29.38,
+        "Category_Counts": {
+            "Main": 16182,
+            "Meal": 1850,
+            "Side": 5985,
+            "Dessert": 6842,
+            "Drink": 13669
+        },
+        "Category_Healthy_Counts": {
+            "Main": 11610,
+            "Meal": 830,
+            "Side": 2729,
+            "Dessert": 1522,
+            "Drink": 7081
+        }
+    },
+    {
+        "NeighborhoodName": "Irqah",
+        "District": "Irqah",
+        "Total_Count": 845,
+        "Healthy_Count": 429,
+        "Percentage": 50.77,
+        "All_items": 31335,
+        "Healthy_items": 15969,
+        "Precentage_of_Healthy_Items": 50.96,
+        "Avg_Price_Healthy": 24.97,
+        "Avg_Price_Unhealthy": 29.96,
+        "Category_Counts": {
+            "Main": 11667,
+            "Meal": 1663,
+            "Side": 5042,
+            "Dessert": 3712,
+            "Drink": 9251
+        },
+        "Category_Healthy_Counts": {
+            "Main": 7898,
+            "Meal": 656,
+            "Side": 2215,
+            "Dessert": 794,
+            "Drink": 4406
+        }
+    },
+    {
+        "NeighborhoodName": "Ishbiliyah",
+        "District": "Ishbiliyah",
+        "Total_Count": 999,
+        "Healthy_Count": 569,
+        "Percentage": 56.96,
+        "All_items": 35014,
+        "Healthy_items": 18722,
+        "Precentage_of_Healthy_Items": 53.47,
+        "Avg_Price_Healthy": 22.92,
+        "Avg_Price_Unhealthy": 28.73,
+        "Category_Counts": {
+            "Main": 13797,
+            "Meal": 1859,
+            "Side": 5478,
+            "Dessert": 4534,
+            "Drink": 9346
+        },
+        "Category_Healthy_Counts": {
+            "Main": 9710,
+            "Meal": 853,
+            "Side": 2633,
+            "Dessert": 935,
+            "Drink": 4591
+        }
+    },
+    {
+        "NeighborhoodName": "Jabrah",
+        "District": "Jabrah",
+        "Total_Count": 1176,
+        "Healthy_Count": 670,
+        "Percentage": 56.97,
+        "All_items": 47269,
+        "Healthy_items": 25999,
+        "Precentage_of_Healthy_Items": 55.0,
+        "Avg_Price_Healthy": 22.8,
+        "Avg_Price_Unhealthy": 27.64,
+        "Category_Counts": {
+            "Main": 18784,
+            "Meal": 2372,
+            "Side": 6746,
+            "Dessert": 5445,
+            "Drink": 13922
+        },
+        "Category_Healthy_Counts": {
+            "Main": 13381,
+            "Meal": 1054,
+            "Side": 3233,
+            "Dessert": 1300,
+            "Drink": 7031
+        }
+    },
+    {
+        "NeighborhoodName": "Janadriyah",
+        "District": "Janadriyah",
+        "Total_Count": 264,
+        "Healthy_Count": 162,
+        "Percentage": 61.36,
+        "All_items": 9193,
+        "Healthy_items": 4902,
+        "Precentage_of_Healthy_Items": 53.32,
+        "Avg_Price_Healthy": 19.07,
+        "Avg_Price_Unhealthy": 26.59,
+        "Category_Counts": {
+            "Main": 3471,
+            "Meal": 439,
+            "Side": 1211,
+            "Dessert": 1354,
+            "Drink": 2718
+        },
+        "Category_Healthy_Counts": {
+            "Main": 2523,
+            "Meal": 177,
+            "Side": 637,
+            "Dessert": 227,
+            "Drink": 1338
+        }
+    },
+    {
+        "NeighborhoodName": "Jarir",
+        "District": "Jarir",
+        "Total_Count": 1000,
+        "Healthy_Count": 582,
+        "Percentage": 58.2,
+        "All_items": 41051,
+        "Healthy_items": 22630,
+        "Precentage_of_Healthy_Items": 55.13,
+        "Avg_Price_Healthy": 23.53,
+        "Avg_Price_Unhealthy": 27.66,
+        "Category_Counts": {
+            "Main": 16521,
+            "Meal": 1983,
+            "Side": 5915,
+            "Dessert": 4736,
+            "Drink": 11896
+        },
+        "Category_Healthy_Counts": {
+            "Main": 11829,
+            "Meal": 946,
+            "Side": 2780,
+            "Dessert": 1061,
+            "Drink": 6014
+        }
+    },
+    {
+        "NeighborhoodName": "Jazirah",
+        "District": "Jazirah",
+        "Total_Count": 972,
+        "Healthy_Count": 548,
+        "Percentage": 56.38,
+        "All_items": 39687,
+        "Healthy_items": 21365,
+        "Precentage_of_Healthy_Items": 53.83,
+        "Avg_Price_Healthy": 21.52,
+        "Avg_Price_Unhealthy": 26.42,
+        "Category_Counts": {
+            "Main": 15425,
+            "Meal": 1965,
+            "Side": 5440,
+            "Dessert": 4946,
+            "Drink": 11911
+        },
+        "Category_Healthy_Counts": {
+            "Main": 11046,
+            "Meal": 929,
+            "Side": 2606,
+            "Dessert": 1012,
+            "Drink": 5772
+        }
+    },
+    {
+        "NeighborhoodName": "Khaldiyah",
+        "District": "Khaldiyah",
+        "Total_Count": 1154,
+        "Healthy_Count": 657,
+        "Percentage": 56.93,
+        "All_items": 46776,
+        "Healthy_items": 25693,
+        "Precentage_of_Healthy_Items": 54.93,
+        "Avg_Price_Healthy": 19.64,
+        "Avg_Price_Unhealthy": 25.35,
+        "Category_Counts": {
+            "Main": 18100,
+            "Meal": 2026,
+            "Side": 5907,
+            "Dessert": 5845,
+            "Drink": 14898
+        },
+        "Category_Healthy_Counts": {
+            "Main": 13169,
+            "Meal": 931,
+            "Side": 2776,
+            "Dessert": 1370,
+            "Drink": 7447
+        }
+    },
+    {
+        "NeighborhoodName": "Khuzama",
+        "District": "Khuzama",
+        "Total_Count": 1146,
+        "Healthy_Count": 652,
+        "Percentage": 56.89,
+        "All_items": 39827,
+        "Healthy_items": 21806,
+        "Precentage_of_Healthy_Items": 54.75,
+        "Avg_Price_Healthy": 25.3,
+        "Avg_Price_Unhealthy": 30.6,
+        "Category_Counts": {
+            "Main": 16031,
+            "Meal": 2133,
+            "Side": 6382,
+            "Dessert": 4777,
+            "Drink": 10504
+        },
+        "Category_Healthy_Counts": {
+            "Main": 11463,
+            "Meal": 957,
+            "Side": 2935,
+            "Dessert": 1063,
+            "Drink": 5388
+        }
+    },
+    {
+        "NeighborhoodName": "King Abdllah Neighborhood",
+        "District": "King Abdllah Neighborhood",
+        "Total_Count": 1418,
+        "Healthy_Count": 814,
+        "Percentage": 57.4,
+        "All_items": 53780,
+        "Healthy_items": 29508,
+        "Precentage_of_Healthy_Items": 54.87,
+        "Avg_Price_Healthy": 24.62,
+        "Avg_Price_Unhealthy": 29.71,
+        "Category_Counts": {
+            "Main": 21749,
+            "Meal": 2809,
+            "Side": 8372,
+            "Dessert": 6617,
+            "Drink": 14233
+        },
+        "Category_Healthy_Counts": {
+            "Main": 15476,
+            "Meal": 1338,
+            "Side": 3854,
+            "Dessert": 1529,
+            "Drink": 7311
+        }
+    },
+    {
+        "NeighborhoodName": "King AbdulAziz Neighborhood",
+        "District": "King AbdulAziz Neighborhood",
+        "Total_Count": 1452,
+        "Healthy_Count": 806,
+        "Percentage": 55.51,
+        "All_items": 53524,
+        "Healthy_items": 28777,
+        "Precentage_of_Healthy_Items": 53.76,
+        "Avg_Price_Healthy": 23.37,
+        "Avg_Price_Unhealthy": 28.79,
+        "Category_Counts": {
+            "Main": 21845,
+            "Meal": 2760,
+            "Side": 8300,
+            "Dessert": 6697,
+            "Drink": 13922
+        },
+        "Category_Healthy_Counts": {
+            "Main": 15474,
+            "Meal": 1242,
+            "Side": 3819,
+            "Dessert": 1373,
+            "Drink": 6869
+        }
+    },
+    {
+        "NeighborhoodName": "King Fahd Neighborhood",
+        "District": "King Fahd Neighborhood",
+        "Total_Count": 1358,
+        "Healthy_Count": 769,
+        "Percentage": 56.63,
+        "All_items": 47371,
+        "Healthy_items": 26084,
+        "Precentage_of_Healthy_Items": 55.06,
+        "Avg_Price_Healthy": 25.92,
+        "Avg_Price_Unhealthy": 31.59,
+        "Category_Counts": {
+            "Main": 19085,
+            "Meal": 2379,
+            "Side": 7861,
+            "Dessert": 6323,
+            "Drink": 11723
+        },
+        "Category_Healthy_Counts": {
+            "Main": 13660,
+            "Meal": 1067,
+            "Side": 3601,
+            "Dessert": 1374,
+            "Drink": 6382
+        }
+    },
+    {
+        "NeighborhoodName": "King Faisal Neighborhood",
+        "District": "King Faisal Neighborhood",
+        "Total_Count": 867,
+        "Healthy_Count": 461,
+        "Percentage": 53.17,
+        "All_items": 31005,
+        "Healthy_items": 15661,
+        "Precentage_of_Healthy_Items": 50.51,
+        "Avg_Price_Healthy": 22.2,
+        "Avg_Price_Unhealthy": 28.07,
+        "Category_Counts": {
+            "Main": 11445,
+            "Meal": 1649,
+            "Side": 4799,
+            "Dessert": 3984,
+            "Drink": 9128
+        },
+        "Category_Healthy_Counts": {
+            "Main": 7715,
+            "Meal": 702,
+            "Side": 2151,
+            "Dessert": 823,
+            "Drink": 4270
+        }
+    },
+    {
+        "NeighborhoodName": "King Khalid Airport",
+        "District": "King Khalid Airport",
+        "Total_Count": 392,
+        "Healthy_Count": 219,
+        "Percentage": 55.87,
+        "All_items": 13475,
+        "Healthy_items": 6923,
+        "Precentage_of_Healthy_Items": 51.38,
+        "Avg_Price_Healthy": 25.33,
+        "Avg_Price_Unhealthy": 31.66,
+        "Category_Counts": {
+            "Main": 5152,
+            "Meal": 847,
+            "Side": 2196,
+            "Dessert": 1770,
+            "Drink": 3510
+        },
+        "Category_Healthy_Counts": {
+            "Main": 3547,
+            "Meal": 344,
+            "Side": 934,
+            "Dessert": 403,
+            "Drink": 1695
+        }
+    },
+    {
+        "NeighborhoodName": "King Saud University",
+        "District": "King Saud University",
+        "Total_Count": 1187,
+        "Healthy_Count": 660,
+        "Percentage": 55.6,
+        "All_items": 41489,
+        "Healthy_items": 22573,
+        "Precentage_of_Healthy_Items": 54.41,
+        "Avg_Price_Healthy": 25.09,
+        "Avg_Price_Unhealthy": 31.44,
+        "Category_Counts": {
+            "Main": 16977,
+            "Meal": 2181,
+            "Side": 7017,
+            "Dessert": 5274,
+            "Drink": 10040
+        },
+        "Category_Healthy_Counts": {
+            "Main": 11992,
+            "Meal": 1014,
+            "Side": 3141,
+            "Dessert": 1148,
+            "Drink": 5278
+        }
+    },
+    {
+        "NeighborhoodName": "Laban",
+        "District": "Laban",
+        "Total_Count": 1030,
+        "Healthy_Count": 564,
+        "Percentage": 54.76,
+        "All_items": 38035,
+        "Healthy_items": 20141,
+        "Precentage_of_Healthy_Items": 52.95,
+        "Avg_Price_Healthy": 24.48,
+        "Avg_Price_Unhealthy": 28.05,
+        "Category_Counts": {
+            "Main": 14741,
+            "Meal": 2343,
+            "Side": 5761,
+            "Dessert": 4442,
+            "Drink": 10748
+        },
+        "Category_Healthy_Counts": {
+            "Main": 10378,
+            "Meal": 1079,
+            "Side": 2641,
+            "Dessert": 1046,
+            "Drink": 4997
+        }
+    },
+    {
+        "NeighborhoodName": "Maizlh",
+        "District": "Maizlh",
+        "Total_Count": 770,
+        "Healthy_Count": 455,
+        "Percentage": 59.09,
+        "All_items": 27829,
+        "Healthy_items": 15308,
+        "Precentage_of_Healthy_Items": 55.01,
+        "Avg_Price_Healthy": 21.5,
+        "Avg_Price_Unhealthy": 26.51,
+        "Category_Counts": {
+            "Main": 11195,
+            "Meal": 1386,
+            "Side": 4270,
+            "Dessert": 3446,
+            "Drink": 7532
+        },
+        "Category_Healthy_Counts": {
+            "Main": 8395,
+            "Meal": 623,
+            "Side": 2185,
+            "Dessert": 679,
+            "Drink": 3426
+        }
+    },
+    {
+        "NeighborhoodName": "Malaz",
+        "District": "Malaz",
+        "Total_Count": 1280,
+        "Healthy_Count": 711,
+        "Percentage": 55.55,
+        "All_items": 51034,
+        "Healthy_items": 27779,
+        "Precentage_of_Healthy_Items": 54.43,
+        "Avg_Price_Healthy": 23.42,
+        "Avg_Price_Unhealthy": 28.23,
+        "Category_Counts": {
+            "Main": 20424,
+            "Meal": 2722,
+            "Side": 7749,
+            "Dessert": 5925,
+            "Drink": 14214
+        },
+        "Category_Healthy_Counts": {
+            "Main": 14441,
+            "Meal": 1233,
+            "Side": 3648,
+            "Dessert": 1277,
+            "Drink": 7180
+        }
+    },
+    {
+        "NeighborhoodName": "Malqa",
+        "District": "Malqa",
+        "Total_Count": 1006,
+        "Healthy_Count": 568,
+        "Percentage": 56.46,
+        "All_items": 33851,
+        "Healthy_items": 18191,
+        "Precentage_of_Healthy_Items": 53.74,
+        "Avg_Price_Healthy": 25.89,
+        "Avg_Price_Unhealthy": 31.72,
+        "Category_Counts": {
+            "Main": 13590,
+            "Meal": 1859,
+            "Side": 5730,
+            "Dessert": 4473,
+            "Drink": 8199
+        },
+        "Category_Healthy_Counts": {
+            "Main": 9505,
+            "Meal": 845,
+            "Side": 2582,
+            "Dessert": 958,
+            "Drink": 4301
+        }
+    },
+    {
+        "NeighborhoodName": "Manakh",
+        "District": "Manakh",
+        "Total_Count": 605,
+        "Healthy_Count": 360,
+        "Percentage": 59.5,
+        "All_items": 26994,
+        "Healthy_items": 15451,
+        "Precentage_of_Healthy_Items": 57.24,
+        "Avg_Price_Healthy": 22.02,
+        "Avg_Price_Unhealthy": 25.45,
+        "Category_Counts": {
+            "Main": 10871,
+            "Meal": 1699,
+            "Side": 3856,
+            "Dessert": 2747,
+            "Drink": 7821
+        },
+        "Category_Healthy_Counts": {
+            "Main": 8219,
+            "Meal": 779,
+            "Side": 1950,
+            "Dessert": 629,
+            "Drink": 3874
+        }
+    },
+    {
+        "NeighborhoodName": "Manar",
+        "District": "Manar",
+        "Total_Count": 1042,
+        "Healthy_Count": 594,
+        "Percentage": 57.01,
+        "All_items": 38627,
+        "Healthy_items": 20410,
+        "Precentage_of_Healthy_Items": 52.84,
+        "Avg_Price_Healthy": 22.29,
+        "Avg_Price_Unhealthy": 27.14,
+        "Category_Counts": {
+            "Main": 14942,
+            "Meal": 2028,
+            "Side": 5864,
+            "Dessert": 4927,
+            "Drink": 10866
+        },
+        "Category_Healthy_Counts": {
+            "Main": 10531,
+            "Meal": 937,
+            "Side": 2763,
+            "Dessert": 1051,
+            "Drink": 5128
+        }
+    },
+    {
+        "NeighborhoodName": "Manfouhah Al Jadidah",
+        "District": "Manfouhah Al Jadidah",
+        "Total_Count": 1052,
+        "Healthy_Count": 602,
+        "Percentage": 57.22,
+        "All_items": 42861,
+        "Healthy_items": 24124,
+        "Precentage_of_Healthy_Items": 56.28,
+        "Avg_Price_Healthy": 22.73,
+        "Avg_Price_Unhealthy": 26.66,
+        "Category_Counts": {
+            "Main": 17752,
+            "Meal": 2357,
+            "Side": 6192,
+            "Dessert": 4509,
+            "Drink": 12051
+        },
+        "Category_Healthy_Counts": {
+            "Main": 12859,
+            "Meal": 1061,
+            "Side": 2936,
+            "Dessert": 1032,
+            "Drink": 6236
+        }
+    },
+    {
+        "NeighborhoodName": "Manfuhah",
+        "District": "Manfuhah",
+        "Total_Count": 915,
+        "Healthy_Count": 519,
+        "Percentage": 56.72,
+        "All_items": 37016,
+        "Healthy_items": 20811,
+        "Precentage_of_Healthy_Items": 56.22,
+        "Avg_Price_Healthy": 21.57,
+        "Avg_Price_Unhealthy": 26.04,
+        "Category_Counts": {
+            "Main": 15167,
+            "Meal": 1989,
+            "Side": 5424,
+            "Dessert": 3883,
+            "Drink": 10553
+        },
+        "Category_Healthy_Counts": {
+            "Main": 11094,
+            "Meal": 879,
+            "Side": 2610,
+            "Dessert": 896,
+            "Drink": 5332
+        }
+    },
+    {
+        "NeighborhoodName": "Mansoriah",
+        "District": "Mansoriah",
+        "Total_Count": 174,
+        "Healthy_Count": 105,
+        "Percentage": 60.34,
+        "All_items": 8432,
+        "Healthy_items": 4353,
+        "Precentage_of_Healthy_Items": 51.62,
+        "Avg_Price_Healthy": 21.41,
+        "Avg_Price_Unhealthy": 24.88,
+        "Category_Counts": {
+            "Main": 2822,
+            "Meal": 484,
+            "Side": 1091,
+            "Dessert": 1022,
+            "Drink": 3013
+        },
+        "Category_Healthy_Counts": {
+            "Main": 2211,
+            "Meal": 238,
+            "Side": 569,
+            "Dessert": 182,
+            "Drink": 1153
+        }
+    },
+    {
+        "NeighborhoodName": "Marqab",
+        "District": "Marqab",
+        "Total_Count": 1399,
+        "Healthy_Count": 811,
+        "Percentage": 57.97,
+        "All_items": 56049,
+        "Healthy_items": 31153,
+        "Precentage_of_Healthy_Items": 55.58,
+        "Avg_Price_Healthy": 23.28,
+        "Avg_Price_Unhealthy": 27.41,
+        "Category_Counts": {
+            "Main": 23122,
+            "Meal": 2742,
+            "Side": 8214,
+            "Dessert": 6261,
+            "Drink": 15710
+        },
+        "Category_Healthy_Counts": {
+            "Main": 16547,
+            "Meal": 1302,
+            "Side": 3961,
+            "Dessert": 1412,
+            "Drink": 7931
+        }
+    },
+    {
+        "NeighborhoodName": "Masiaf",
+        "District": "Masiaf",
+        "Total_Count": 1409,
+        "Healthy_Count": 804,
+        "Percentage": 57.06,
+        "All_items": 47353,
+        "Healthy_items": 25752,
+        "Precentage_of_Healthy_Items": 54.38,
+        "Avg_Price_Healthy": 26.0,
+        "Avg_Price_Unhealthy": 31.68,
+        "Category_Counts": {
+            "Main": 18591,
+            "Meal": 2361,
+            "Side": 7814,
+            "Dessert": 6596,
+            "Drink": 11991
+        },
+        "Category_Healthy_Counts": {
+            "Main": 13275,
+            "Meal": 1092,
+            "Side": 3605,
+            "Dessert": 1400,
+            "Drink": 6380
+        }
+    },
+    {
+        "NeighborhoodName": "Mikal",
+        "District": "Mikal",
+        "Total_Count": 1123,
+        "Healthy_Count": 632,
+        "Percentage": 56.28,
+        "All_items": 44405,
+        "Healthy_items": 24816,
+        "Precentage_of_Healthy_Items": 55.89,
+        "Avg_Price_Healthy": 22.91,
+        "Avg_Price_Unhealthy": 27.45,
+        "Category_Counts": {
+            "Main": 18409,
+            "Meal": 2307,
+            "Side": 6638,
+            "Dessert": 4661,
+            "Drink": 12390
+        },
+        "Category_Healthy_Counts": {
+            "Main": 13109,
+            "Meal": 1064,
+            "Side": 3154,
+            "Dessert": 1005,
+            "Drink": 6484
+        }
+    },
+    {
+        "NeighborhoodName": "Misfat",
+        "District": "Misfat",
+        "Total_Count": 24,
+        "Healthy_Count": 18,
+        "Percentage": 75.0,
+        "All_items": 783,
+        "Healthy_items": 444,
+        "Precentage_of_Healthy_Items": 56.7,
+        "Avg_Price_Healthy": 17.88,
+        "Avg_Price_Unhealthy": 21.78,
+        "Category_Counts": {
+            "Main": 336,
+            "Meal": 53,
+            "Side": 70,
+            "Dessert": 109,
+            "Drink": 215
+        },
+        "Category_Healthy_Counts": {
+            "Main": 268,
+            "Meal": 23,
+            "Side": 42,
+            "Dessert": 16,
+            "Drink": 95
+        }
+    },
+    {
+        "NeighborhoodName": "Munsiyah",
+        "District": "Munsiyah",
+        "Total_Count": 962,
+        "Healthy_Count": 502,
+        "Percentage": 52.18,
+        "All_items": 35309,
+        "Healthy_items": 17966,
+        "Precentage_of_Healthy_Items": 50.88,
+        "Avg_Price_Healthy": 22.57,
+        "Avg_Price_Unhealthy": 27.96,
+        "Category_Counts": {
+            "Main": 12971,
+            "Meal": 1748,
+            "Side": 5111,
+            "Dessert": 4858,
+            "Drink": 10621
+        },
+        "Category_Healthy_Counts": {
+            "Main": 9024,
+            "Meal": 728,
+            "Side": 2350,
+            "Dessert": 980,
+            "Drink": 4884
+        }
+    },
+    {
+        "NeighborhoodName": "Mutamarat",
+        "District": "Mutamarat",
+        "Total_Count": 1362,
+        "Healthy_Count": 759,
+        "Percentage": 55.73,
+        "All_items": 56074,
+        "Healthy_items": 31119,
+        "Precentage_of_Healthy_Items": 55.5,
+        "Avg_Price_Healthy": 24.29,
+        "Avg_Price_Unhealthy": 28.77,
+        "Category_Counts": {
+            "Main": 22465,
+            "Meal": 2896,
+            "Side": 8376,
+            "Dessert": 6418,
+            "Drink": 15919
+        },
+        "Category_Healthy_Counts": {
+            "Main": 16106,
+            "Meal": 1302,
+            "Side": 3937,
+            "Dessert": 1455,
+            "Drink": 8319
+        }
+    },
+    {
+        "NeighborhoodName": "Namar",
+        "District": "Namar",
+        "Total_Count": 1176,
+        "Healthy_Count": 660,
+        "Percentage": 56.12,
+        "All_items": 47964,
+        "Healthy_items": 26411,
+        "Precentage_of_Healthy_Items": 55.06,
+        "Avg_Price_Healthy": 21.72,
+        "Avg_Price_Unhealthy": 26.76,
+        "Category_Counts": {
+            "Main": 18554,
+            "Meal": 2264,
+            "Side": 6468,
+            "Dessert": 5846,
+            "Drink": 14832
+        },
+        "Category_Healthy_Counts": {
+            "Main": 13226,
+            "Meal": 1016,
+            "Side": 3073,
+            "Dessert": 1370,
+            "Drink": 7726
+        }
+    },
+    {
+        "NeighborhoodName": "Namudhajiyah",
+        "District": "Namudhajiyah",
+        "Total_Count": 1222,
+        "Healthy_Count": 675,
+        "Percentage": 55.24,
+        "All_items": 50064,
+        "Healthy_items": 27753,
+        "Precentage_of_Healthy_Items": 55.44,
+        "Avg_Price_Healthy": 24.13,
+        "Avg_Price_Unhealthy": 28.99,
+        "Category_Counts": {
+            "Main": 20382,
+            "Meal": 2757,
+            "Side": 7364,
+            "Dessert": 5870,
+            "Drink": 13691
+        },
+        "Category_Healthy_Counts": {
+            "Main": 14549,
+            "Meal": 1237,
+            "Side": 3448,
+            "Dessert": 1275,
+            "Drink": 7244
+        }
+    },
+    {
+        "NeighborhoodName": "Narjis",
+        "District": "Narjis",
+        "Total_Count": 704,
+        "Healthy_Count": 367,
+        "Percentage": 52.13,
+        "All_items": 23265,
+        "Healthy_items": 12046,
+        "Precentage_of_Healthy_Items": 51.78,
+        "Avg_Price_Healthy": 23.37,
+        "Avg_Price_Unhealthy": 29.73,
+        "Category_Counts": {
+            "Main": 8391,
+            "Meal": 1014,
+            "Side": 3383,
+            "Dessert": 3672,
+            "Drink": 6805
+        },
+        "Category_Healthy_Counts": {
+            "Main": 5711,
+            "Meal": 455,
+            "Side": 1572,
+            "Dessert": 810,
+            "Drink": 3498
+        }
+    },
+    {
+        "NeighborhoodName": "New Industrial Area",
+        "District": "New Industrial Area",
+        "Total_Count": 11,
+        "Healthy_Count": 4,
+        "Percentage": 36.36,
+        "All_items": 489,
+        "Healthy_items": 225,
+        "Precentage_of_Healthy_Items": 46.01,
+        "Avg_Price_Healthy": 15.43,
+        "Avg_Price_Unhealthy": 20.82,
+        "Category_Counts": {
+            "Main": 173,
+            "Meal": 54,
+            "Side": 59,
+            "Dessert": 59,
+            "Drink": 144
+        },
+        "Category_Healthy_Counts": {
+            "Main": 117,
+            "Meal": 12,
+            "Side": 29,
+            "Dessert": 3,
+            "Drink": 64
+        }
+    },
+    {
+        "NeighborhoodName": "Nur",
+        "District": "Nur",
+        "Total_Count": 771,
+        "Healthy_Count": 455,
+        "Percentage": 59.01,
+        "All_items": 31188,
+        "Healthy_items": 17454,
+        "Precentage_of_Healthy_Items": 55.96,
+        "Avg_Price_Healthy": 21.66,
+        "Avg_Price_Unhealthy": 25.51,
+        "Category_Counts": {
+            "Main": 12220,
+            "Meal": 1737,
+            "Side": 4285,
+            "Dessert": 3659,
+            "Drink": 9287
+        },
+        "Category_Healthy_Counts": {
+            "Main": 9087,
+            "Meal": 785,
+            "Side": 2152,
+            "Dessert": 852,
+            "Drink": 4578
+        }
+    },
+    {
+        "NeighborhoodName": "okaz",
+        "District": "okaz",
+        "Total_Count": 429,
+        "Healthy_Count": 236,
+        "Percentage": 55.01,
+        "All_items": 17126,
+        "Healthy_items": 9457,
+        "Precentage_of_Healthy_Items": 55.22,
+        "Avg_Price_Healthy": 19.61,
+        "Avg_Price_Unhealthy": 25.76,
+        "Category_Counts": {
+            "Main": 5782,
+            "Meal": 935,
+            "Side": 2180,
+            "Dessert": 2277,
+            "Drink": 5952
+        },
+        "Category_Healthy_Counts": {
+            "Main": 4451,
+            "Meal": 433,
+            "Side": 1136,
+            "Dessert": 471,
+            "Drink": 2966
+        }
+    },
+    {
+        "NeighborhoodName": "Oud",
+        "District": "Oud",
+        "Total_Count": 1198,
+        "Healthy_Count": 675,
+        "Percentage": 56.34,
+        "All_items": 47787,
+        "Healthy_items": 26170,
+        "Precentage_of_Healthy_Items": 54.76,
+        "Avg_Price_Healthy": 23.1,
+        "Avg_Price_Unhealthy": 27.27,
+        "Category_Counts": {
+            "Main": 19474,
+            "Meal": 2504,
+            "Side": 7082,
+            "Dessert": 5437,
+            "Drink": 13290
+        },
+        "Category_Healthy_Counts": {
+            "Main": 13887,
+            "Meal": 1134,
+            "Side": 3355,
+            "Dessert": 1175,
+            "Drink": 6619
+        }
+    },
+    {
+        "NeighborhoodName": "Princess Nora Bint Abdul Rahman University",
+        "District": "Princess Nora Bint Abdul Rahman University",
+        "Total_Count": 1117,
+        "Healthy_Count": 585,
+        "Percentage": 52.37,
+        "All_items": 37019,
+        "Healthy_items": 19254,
+        "Precentage_of_Healthy_Items": 52.01,
+        "Avg_Price_Healthy": 24.69,
+        "Avg_Price_Unhealthy": 30.57,
+        "Category_Counts": {
+            "Main": 14477,
+            "Meal": 2095,
+            "Side": 6197,
+            "Dessert": 4630,
+            "Drink": 9620
+        },
+        "Category_Healthy_Counts": {
+            "Main": 9930,
+            "Meal": 855,
+            "Side": 2740,
+            "Dessert": 905,
+            "Drink": 4824
+        }
+    },
+    {
+        "NeighborhoodName": "Qadisiayh",
+        "District": "Qadisiayh",
+        "Total_Count": 973,
+        "Healthy_Count": 567,
+        "Percentage": 58.27,
+        "All_items": 35798,
+        "Healthy_items": 19095,
+        "Precentage_of_Healthy_Items": 53.34,
+        "Avg_Price_Healthy": 21.77,
+        "Avg_Price_Unhealthy": 27.02,
+        "Category_Counts": {
+            "Main": 13301,
+            "Meal": 1600,
+            "Side": 4738,
+            "Dessert": 5059,
+            "Drink": 11100
+        },
+        "Category_Healthy_Counts": {
+            "Main": 9958,
+            "Meal": 737,
+            "Side": 2292,
+            "Dessert": 1012,
+            "Drink": 5096
+        }
+    },
+    {
+        "NeighborhoodName": "Qirawan",
+        "District": "Qirawan",
+        "Total_Count": 891,
+        "Healthy_Count": 472,
+        "Percentage": 52.97,
+        "All_items": 30126,
+        "Healthy_items": 15704,
+        "Precentage_of_Healthy_Items": 52.13,
+        "Avg_Price_Healthy": 23.15,
+        "Avg_Price_Unhealthy": 29.86,
+        "Category_Counts": {
+            "Main": 11018,
+            "Meal": 1502,
+            "Side": 4387,
+            "Dessert": 4631,
+            "Drink": 8588
+        },
+        "Category_Healthy_Counts": {
+            "Main": 7815,
+            "Meal": 625,
+            "Side": 2036,
+            "Dessert": 976,
+            "Drink": 4252
+        }
+    },
+    {
+        "NeighborhoodName": "Qurtubah",
+        "District": "Qurtubah",
+        "Total_Count": 1278,
+        "Healthy_Count": 708,
+        "Percentage": 55.4,
+        "All_items": 43698,
+        "Healthy_items": 23420,
+        "Precentage_of_Healthy_Items": 53.6,
+        "Avg_Price_Healthy": 23.92,
+        "Avg_Price_Unhealthy": 29.69,
+        "Category_Counts": {
+            "Main": 17370,
+            "Meal": 2328,
+            "Side": 7143,
+            "Dessert": 5552,
+            "Drink": 11305
+        },
+        "Category_Healthy_Counts": {
+            "Main": 12239,
+            "Meal": 982,
+            "Side": 3336,
+            "Dessert": 1160,
+            "Drink": 5703
+        }
+    },
+    {
+        "NeighborhoodName": "Rabie",
+        "District": "Rabie",
+        "Total_Count": 1330,
+        "Healthy_Count": 733,
+        "Percentage": 55.11,
+        "All_items": 42759,
+        "Healthy_items": 22952,
+        "Precentage_of_Healthy_Items": 53.68,
+        "Avg_Price_Healthy": 25.7,
+        "Avg_Price_Unhealthy": 31.38,
+        "Category_Counts": {
+            "Main": 16879,
+            "Meal": 2249,
+            "Side": 7368,
+            "Dessert": 5622,
+            "Drink": 10641
+        },
+        "Category_Healthy_Counts": {
+            "Main": 11903,
+            "Meal": 967,
+            "Side": 3420,
+            "Dessert": 1220,
+            "Drink": 5442
+        }
+    },
+    {
+        "NeighborhoodName": "Rafiah",
+        "District": "Rafiah",
+        "Total_Count": 1010,
+        "Healthy_Count": 540,
+        "Percentage": 53.47,
+        "All_items": 40022,
+        "Healthy_items": 21726,
+        "Precentage_of_Healthy_Items": 54.29,
+        "Avg_Price_Healthy": 22.37,
+        "Avg_Price_Unhealthy": 27.58,
+        "Category_Counts": {
+            "Main": 15391,
+            "Meal": 1973,
+            "Side": 5180,
+            "Dessert": 5017,
+            "Drink": 12461
+        },
+        "Category_Healthy_Counts": {
+            "Main": 10793,
+            "Meal": 851,
+            "Side": 2445,
+            "Dessert": 1085,
+            "Drink": 6552
+        }
+    },
+    {
+        "NeighborhoodName": "Rahmaniyah",
+        "District": "Rahmaniyah",
+        "Total_Count": 1608,
+        "Healthy_Count": 936,
+        "Percentage": 58.21,
+        "All_items": 58499,
+        "Healthy_items": 32098,
+        "Precentage_of_Healthy_Items": 54.87,
+        "Avg_Price_Healthy": 23.36,
+        "Avg_Price_Unhealthy": 28.94,
+        "Category_Counts": {
+            "Main": 22900,
+            "Meal": 2742,
+            "Side": 8337,
+            "Dessert": 8094,
+            "Drink": 16426
+        },
+        "Category_Healthy_Counts": {
+            "Main": 16766,
+            "Meal": 1190,
+            "Side": 4000,
+            "Dessert": 1811,
+            "Drink": 8331
+        }
+    },
+    {
+        "NeighborhoodName": "Raid",
+        "District": "Raid",
+        "Total_Count": 1176,
+        "Healthy_Count": 667,
+        "Percentage": 56.72,
+        "All_items": 42299,
+        "Healthy_items": 23189,
+        "Precentage_of_Healthy_Items": 54.82,
+        "Avg_Price_Healthy": 25.91,
+        "Avg_Price_Unhealthy": 30.58,
+        "Category_Counts": {
+            "Main": 17818,
+            "Meal": 2268,
+            "Side": 6810,
+            "Dessert": 5035,
+            "Drink": 10368
+        },
+        "Category_Healthy_Counts": {
+            "Main": 12597,
+            "Meal": 1022,
+            "Side": 3014,
+            "Dessert": 1134,
+            "Drink": 5422
+        }
+    },
+    {
+        "NeighborhoodName": "Rimal",
+        "District": "Rimal",
+        "Total_Count": 72,
+        "Healthy_Count": 32,
+        "Percentage": 44.44,
+        "All_items": 3250,
+        "Healthy_items": 1582,
+        "Precentage_of_Healthy_Items": 48.68,
+        "Avg_Price_Healthy": 26.15,
+        "Avg_Price_Unhealthy": 32.7,
+        "Category_Counts": {
+            "Main": 1324,
+            "Meal": 248,
+            "Side": 593,
+            "Dessert": 386,
+            "Drink": 699
+        },
+        "Category_Healthy_Counts": {
+            "Main": 885,
+            "Meal": 107,
+            "Side": 221,
+            "Dessert": 34,
+            "Drink": 335
+        }
+    },
+    {
+        "NeighborhoodName": "Rimayah",
+        "District": "Rimayah",
+        "Total_Count": 632,
+        "Healthy_Count": 377,
+        "Percentage": 59.65,
+        "All_items": 22729,
+        "Healthy_items": 12351,
+        "Precentage_of_Healthy_Items": 54.34,
+        "Avg_Price_Healthy": 20.43,
+        "Avg_Price_Unhealthy": 25.55,
+        "Category_Counts": {
+            "Main": 8678,
+            "Meal": 1037,
+            "Side": 3408,
+            "Dessert": 2836,
+            "Drink": 6770
+        },
+        "Category_Healthy_Counts": {
+            "Main": 6427,
+            "Meal": 495,
+            "Side": 1682,
+            "Dessert": 547,
+            "Drink": 3200
+        }
+    },
+    {
+        "NeighborhoodName": "Saadah",
+        "District": "Saadah",
+        "Total_Count": 901,
+        "Healthy_Count": 530,
+        "Percentage": 58.82,
+        "All_items": 35549,
+        "Healthy_items": 18899,
+        "Precentage_of_Healthy_Items": 53.16,
+        "Avg_Price_Healthy": 20.25,
+        "Avg_Price_Unhealthy": 25.24,
+        "Category_Counts": {
+            "Main": 13239,
+            "Meal": 1681,
+            "Side": 4424,
+            "Dessert": 4955,
+            "Drink": 11250
+        },
+        "Category_Healthy_Counts": {
+            "Main": 9895,
+            "Meal": 801,
+            "Side": 2123,
+            "Dessert": 1014,
+            "Drink": 5066
+        }
+    },
+    {
+        "NeighborhoodName": "Safa",
+        "District": "Safa",
+        "Total_Count": 1130,
+        "Healthy_Count": 648,
+        "Percentage": 57.35,
+        "All_items": 44111,
+        "Healthy_items": 24239,
+        "Precentage_of_Healthy_Items": 54.95,
+        "Avg_Price_Healthy": 23.52,
+        "Avg_Price_Unhealthy": 27.79,
+        "Category_Counts": {
+            "Main": 18501,
+            "Meal": 2308,
+            "Side": 6904,
+            "Dessert": 4997,
+            "Drink": 11401
+        },
+        "Category_Healthy_Counts": {
+            "Main": 13215,
+            "Meal": 991,
+            "Side": 3287,
+            "Dessert": 1111,
+            "Drink": 5635
+        }
+    },
+    {
+        "NeighborhoodName": "Sahafah",
+        "District": "Sahafah",
+        "Total_Count": 1356,
+        "Healthy_Count": 758,
+        "Percentage": 55.9,
+        "All_items": 43631,
+        "Healthy_items": 23421,
+        "Precentage_of_Healthy_Items": 53.68,
+        "Avg_Price_Healthy": 25.36,
+        "Avg_Price_Unhealthy": 31.38,
+        "Category_Counts": {
+            "Main": 17234,
+            "Meal": 2187,
+            "Side": 7227,
+            "Dessert": 5768,
+            "Drink": 11215
+        },
+        "Category_Healthy_Counts": {
+            "Main": 12184,
+            "Meal": 907,
+            "Side": 3274,
+            "Dessert": 1270,
+            "Drink": 5786
+        }
+    },
+    {
+        "NeighborhoodName": "Salah Ad Din",
+        "District": "Salah Ad Din",
+        "Total_Count": 1362,
+        "Healthy_Count": 774,
+        "Percentage": 56.83,
+        "All_items": 49116,
+        "Healthy_items": 26671,
+        "Precentage_of_Healthy_Items": 54.3,
+        "Avg_Price_Healthy": 25.57,
+        "Avg_Price_Unhealthy": 30.22,
+        "Category_Counts": {
+            "Main": 19866,
+            "Meal": 2523,
+            "Side": 8033,
+            "Dessert": 6189,
+            "Drink": 12505
+        },
+        "Category_Healthy_Counts": {
+            "Main": 14064,
+            "Meal": 1168,
+            "Side": 3676,
+            "Dessert": 1327,
+            "Drink": 6436
+        }
+    },
+    {
+        "NeighborhoodName": "Salhiyah",
+        "District": "Salhiyah",
+        "Total_Count": 1333,
+        "Healthy_Count": 753,
+        "Percentage": 56.49,
+        "All_items": 53393,
+        "Healthy_items": 29274,
+        "Precentage_of_Healthy_Items": 54.83,
+        "Avg_Price_Healthy": 21.17,
+        "Avg_Price_Unhealthy": 26.69,
+        "Category_Counts": {
+            "Main": 20524,
+            "Meal": 2267,
+            "Side": 6819,
+            "Dessert": 6761,
+            "Drink": 17022
+        },
+        "Category_Healthy_Counts": {
+            "Main": 14807,
+            "Meal": 1035,
+            "Side": 3213,
+            "Dessert": 1600,
+            "Drink": 8619
+        }
+    },
+    {
+        "NeighborhoodName": "Sharafiyah",
+        "District": "Sharafiyah",
+        "Total_Count": 1233,
+        "Healthy_Count": 690,
+        "Percentage": 55.96,
+        "All_items": 49522,
+        "Healthy_items": 27257,
+        "Precentage_of_Healthy_Items": 55.04,
+        "Avg_Price_Healthy": 24.58,
+        "Avg_Price_Unhealthy": 29.36,
+        "Category_Counts": {
+            "Main": 20041,
+            "Meal": 2567,
+            "Side": 7420,
+            "Dessert": 5721,
+            "Drink": 13773
+        },
+        "Category_Healthy_Counts": {
+            "Main": 14201,
+            "Meal": 1146,
+            "Side": 3387,
+            "Dessert": 1323,
+            "Drink": 7200
+        }
+    },
+    {
+        "NeighborhoodName": "Shubra",
+        "District": "Shubra",
+        "Total_Count": 836,
+        "Healthy_Count": 472,
+        "Percentage": 56.46,
+        "All_items": 33997,
+        "Healthy_items": 18784,
+        "Precentage_of_Healthy_Items": 55.25,
+        "Avg_Price_Healthy": 20.75,
+        "Avg_Price_Unhealthy": 25.25,
+        "Category_Counts": {
+            "Main": 13145,
+            "Meal": 1936,
+            "Side": 4697,
+            "Dessert": 3628,
+            "Drink": 10591
+        },
+        "Category_Healthy_Counts": {
+            "Main": 9373,
+            "Meal": 869,
+            "Side": 2311,
+            "Dessert": 798,
+            "Drink": 5433
+        }
+    },
+    {
+        "NeighborhoodName": "Sinaiyah",
+        "District": "Sinaiyah",
+        "Total_Count": 1475,
+        "Healthy_Count": 831,
+        "Percentage": 56.34,
+        "All_items": 59331,
+        "Healthy_items": 32078,
+        "Precentage_of_Healthy_Items": 54.07,
+        "Avg_Price_Healthy": 21.57,
+        "Avg_Price_Unhealthy": 27.04,
+        "Category_Counts": {
+            "Main": 22256,
+            "Meal": 2608,
+            "Side": 7894,
+            "Dessert": 7649,
+            "Drink": 18924
+        },
+        "Category_Healthy_Counts": {
+            "Main": 15965,
+            "Meal": 1199,
+            "Side": 3697,
+            "Dessert": 1723,
+            "Drink": 9494
+        }
+    },
+    {
+        "NeighborhoodName": "Siyah",
+        "District": "Siyah",
+        "Total_Count": 1214,
+        "Healthy_Count": 694,
+        "Percentage": 57.17,
+        "All_items": 47440,
+        "Healthy_items": 25742,
+        "Precentage_of_Healthy_Items": 54.26,
+        "Avg_Price_Healthy": 21.09,
+        "Avg_Price_Unhealthy": 26.24,
+        "Category_Counts": {
+            "Main": 18459,
+            "Meal": 2254,
+            "Side": 6288,
+            "Dessert": 5740,
+            "Drink": 14699
+        },
+        "Category_Healthy_Counts": {
+            "Main": 13111,
+            "Meal": 1043,
+            "Side": 2944,
+            "Dessert": 1265,
+            "Drink": 7379
+        }
+    },
+    {
+        "NeighborhoodName": "Skirinah",
+        "District": "Skirinah",
+        "Total_Count": 1280,
+        "Healthy_Count": 722,
+        "Percentage": 56.41,
+        "All_items": 50056,
+        "Healthy_items": 27564,
+        "Precentage_of_Healthy_Items": 55.07,
+        "Avg_Price_Healthy": 23.65,
+        "Avg_Price_Unhealthy": 27.45,
+        "Category_Counts": {
+            "Main": 21065,
+            "Meal": 2584,
+            "Side": 7385,
+            "Dessert": 5561,
+            "Drink": 13461
+        },
+        "Category_Healthy_Counts": {
+            "Main": 14963,
+            "Meal": 1219,
+            "Side": 3463,
+            "Dessert": 1263,
+            "Drink": 6656
+        }
+    },
+    {
+        "NeighborhoodName": "Sultanah",
+        "District": "Sultanah",
+        "Total_Count": 1005,
+        "Healthy_Count": 558,
+        "Percentage": 55.52,
+        "All_items": 39402,
+        "Healthy_items": 21791,
+        "Precentage_of_Healthy_Items": 55.3,
+        "Avg_Price_Healthy": 22.02,
+        "Avg_Price_Unhealthy": 26.44,
+        "Category_Counts": {
+            "Main": 16343,
+            "Meal": 2306,
+            "Side": 5652,
+            "Dessert": 4188,
+            "Drink": 10913
+        },
+        "Category_Healthy_Counts": {
+            "Main": 11602,
+            "Meal": 986,
+            "Side": 2607,
+            "Dessert": 875,
+            "Drink": 5721
+        }
+    },
+    {
+        "NeighborhoodName": "Taybah",
+        "District": "Taybah",
+        "Total_Count": 163,
+        "Healthy_Count": 105,
+        "Percentage": 64.42,
+        "All_items": 7764,
+        "Healthy_items": 4331,
+        "Precentage_of_Healthy_Items": 55.78,
+        "Avg_Price_Healthy": 21.93,
+        "Avg_Price_Unhealthy": 25.06,
+        "Category_Counts": {
+            "Main": 3071,
+            "Meal": 546,
+            "Side": 931,
+            "Dessert": 820,
+            "Drink": 2396
+        },
+        "Category_Healthy_Counts": {
+            "Main": 2384,
+            "Meal": 308,
+            "Side": 484,
+            "Dessert": 135,
+            "Drink": 1020
+        }
+    },
+    {
+        "NeighborhoodName": "Thulaim",
+        "District": "Thulaim",
+        "Total_Count": 1258,
+        "Healthy_Count": 709,
+        "Percentage": 56.36,
+        "All_items": 50019,
+        "Healthy_items": 26889,
+        "Precentage_of_Healthy_Items": 53.76,
+        "Avg_Price_Healthy": 23.48,
+        "Avg_Price_Unhealthy": 27.95,
+        "Category_Counts": {
+            "Main": 20152,
+            "Meal": 2578,
+            "Side": 7268,
+            "Dessert": 6008,
+            "Drink": 14013
+        },
+        "Category_Healthy_Counts": {
+            "Main": 14371,
+            "Meal": 1181,
+            "Side": 3394,
+            "Dessert": 1331,
+            "Drink": 6612
+        }
+    },
+    {
+        "NeighborhoodName": "Tuwaiq",
+        "District": "Tuwaiq",
+        "Total_Count": 833,
+        "Healthy_Count": 444,
+        "Percentage": 53.3,
+        "All_items": 30342,
+        "Healthy_items": 15992,
+        "Precentage_of_Healthy_Items": 52.71,
+        "Avg_Price_Healthy": 20.98,
+        "Avg_Price_Unhealthy": 26.47,
+        "Category_Counts": {
+            "Main": 11070,
+            "Meal": 1450,
+            "Side": 4289,
+            "Dessert": 3697,
+            "Drink": 9836
+        },
+        "Category_Healthy_Counts": {
+            "Main": 7655,
+            "Meal": 592,
+            "Side": 1998,
+            "Dessert": 782,
+            "Drink": 4965
+        }
+    },
+    {
+        "NeighborhoodName": "Uhud",
+        "District": "Uhud",
+        "Total_Count": 448,
+        "Healthy_Count": 263,
+        "Percentage": 58.71,
+        "All_items": 18098,
+        "Healthy_items": 10186,
+        "Precentage_of_Healthy_Items": 56.28,
+        "Avg_Price_Healthy": 19.37,
+        "Avg_Price_Unhealthy": 24.45,
+        "Category_Counts": {
+            "Main": 6377,
+            "Meal": 961,
+            "Side": 2079,
+            "Dessert": 2431,
+            "Drink": 6250
+        },
+        "Category_Healthy_Counts": {
+            "Main": 4974,
+            "Meal": 468,
+            "Side": 1133,
+            "Dessert": 599,
+            "Drink": 3012
+        }
+    },
+    {
+        "NeighborhoodName": "Ulaishah",
+        "District": "Ulaishah",
+        "Total_Count": 1186,
+        "Healthy_Count": 657,
+        "Percentage": 55.4,
+        "All_items": 48023,
+        "Healthy_items": 26391,
+        "Precentage_of_Healthy_Items": 54.95,
+        "Avg_Price_Healthy": 23.2,
+        "Avg_Price_Unhealthy": 27.72,
+        "Category_Counts": {
+            "Main": 18974,
+            "Meal": 2411,
+            "Side": 6878,
+            "Dessert": 5567,
+            "Drink": 14193
+        },
+        "Category_Healthy_Counts": {
+            "Main": 13532,
+            "Meal": 1041,
+            "Side": 3277,
+            "Dessert": 1277,
+            "Drink": 7264
+        }
+    },
+    {
+        "NeighborhoodName": "Umm Al Hamam Algarbi",
+        "District": "Umm Al Hamam Algarbi",
+        "Total_Count": 1468,
+        "Healthy_Count": 828,
+        "Percentage": 56.4,
+        "All_items": 57286,
+        "Healthy_items": 31136,
+        "Precentage_of_Healthy_Items": 54.35,
+        "Avg_Price_Healthy": 22.74,
+        "Avg_Price_Unhealthy": 28.03,
+        "Category_Counts": {
+            "Main": 21799,
+            "Meal": 2533,
+            "Side": 7715,
+            "Dessert": 7801,
+            "Drink": 17438
+        },
+        "Category_Healthy_Counts": {
+            "Main": 15886,
+            "Meal": 1153,
+            "Side": 3730,
+            "Dessert": 1745,
+            "Drink": 8622
+        }
+    },
+    {
+        "NeighborhoodName": "Umm Al Hamam Ash Sharqi",
+        "District": "Umm Al Hamam Ash Sharqi",
+        "Total_Count": 1514,
+        "Healthy_Count": 859,
+        "Percentage": 56.74,
+        "All_items": 58812,
+        "Healthy_items": 31876,
+        "Precentage_of_Healthy_Items": 54.2,
+        "Avg_Price_Healthy": 22.12,
+        "Avg_Price_Unhealthy": 27.78,
+        "Category_Counts": {
+            "Main": 22369,
+            "Meal": 2603,
+            "Side": 7876,
+            "Dessert": 7805,
+            "Drink": 18159
+        },
+        "Category_Healthy_Counts": {
+            "Main": 16297,
+            "Meal": 1149,
+            "Side": 3784,
+            "Dessert": 1715,
+            "Drink": 8931
+        }
+    },
+    {
+        "NeighborhoodName": "Umm Salim",
+        "District": "Umm Salim",
+        "Total_Count": 1279,
+        "Healthy_Count": 723,
+        "Percentage": 56.53,
+        "All_items": 49670,
+        "Healthy_items": 27494,
+        "Precentage_of_Healthy_Items": 55.35,
+        "Avg_Price_Healthy": 23.15,
+        "Avg_Price_Unhealthy": 27.95,
+        "Category_Counts": {
+            "Main": 20214,
+            "Meal": 2494,
+            "Side": 7254,
+            "Dessert": 5900,
+            "Drink": 13808
+        },
+        "Category_Healthy_Counts": {
+            "Main": 14563,
+            "Meal": 1146,
+            "Side": 3408,
+            "Dessert": 1363,
+            "Drink": 7014
+        }
+    },
+    {
+        "NeighborhoodName": "Uraija Al Gharbiyah",
+        "District": "Uraija Al Gharbiyah",
+        "Total_Count": 1021,
+        "Healthy_Count": 556,
+        "Percentage": 54.46,
+        "All_items": 39929,
+        "Healthy_items": 21864,
+        "Precentage_of_Healthy_Items": 54.76,
+        "Avg_Price_Healthy": 21.81,
+        "Avg_Price_Unhealthy": 26.34,
+        "Category_Counts": {
+            "Main": 15148,
+            "Meal": 2463,
+            "Side": 5544,
+            "Dessert": 4254,
+            "Drink": 12520
+        },
+        "Category_Healthy_Counts": {
+            "Main": 10612,
+            "Meal": 1157,
+            "Side": 2703,
+            "Dessert": 954,
+            "Drink": 6438
+        }
+    },
+    {
+        "NeighborhoodName": "Uraija Al Wusta",
+        "District": "Uraija Al Wusta",
+        "Total_Count": 944,
+        "Healthy_Count": 521,
+        "Percentage": 55.19,
+        "All_items": 37204,
+        "Healthy_items": 20441,
+        "Precentage_of_Healthy_Items": 54.94,
+        "Avg_Price_Healthy": 20.5,
+        "Avg_Price_Unhealthy": 26.22,
+        "Category_Counts": {
+            "Main": 14620,
+            "Meal": 1933,
+            "Side": 5102,
+            "Dessert": 4283,
+            "Drink": 11266
+        },
+        "Category_Healthy_Counts": {
+            "Main": 10402,
+            "Meal": 803,
+            "Side": 2442,
+            "Dessert": 946,
+            "Drink": 5848
+        }
+    },
+    {
+        "NeighborhoodName": "Utaiqah",
+        "District": "Utaiqah",
+        "Total_Count": 1026,
+        "Healthy_Count": 579,
+        "Percentage": 56.43,
+        "All_items": 41707,
+        "Healthy_items": 23026,
+        "Precentage_of_Healthy_Items": 55.21,
+        "Avg_Price_Healthy": 21.55,
+        "Avg_Price_Unhealthy": 26.13,
+        "Category_Counts": {
+            "Main": 16693,
+            "Meal": 2043,
+            "Side": 5499,
+            "Dessert": 4835,
+            "Drink": 12637
+        },
+        "Category_Healthy_Counts": {
+            "Main": 12008,
+            "Meal": 969,
+            "Side": 2638,
+            "Dessert": 1082,
+            "Drink": 6329
+        }
+    },
+    {
+        "NeighborhoodName": "Winter Wonderland",
+        "District": "Winter Wonderland",
+        "Total_Count": 1429,
+        "Healthy_Count": 793,
+        "Percentage": 55.49,
+        "All_items": 52413,
+        "Healthy_items": 28194,
+        "Precentage_of_Healthy_Items": 53.79,
+        "Avg_Price_Healthy": 23.27,
+        "Avg_Price_Unhealthy": 30.03,
+        "Category_Counts": {
+            "Main": 19568,
+            "Meal": 2193,
+            "Side": 6950,
+            "Dessert": 8255,
+            "Drink": 15447
+        },
+        "Category_Healthy_Counts": {
+            "Main": 14147,
+            "Meal": 1051,
+            "Side": 3186,
+            "Dessert": 1888,
+            "Drink": 7922
+        }
+    },
+    {
+        "NeighborhoodName": "Yamamah",
+        "District": "Yamamah",
+        "Total_Count": 937,
+        "Healthy_Count": 510,
+        "Percentage": 54.43,
+        "All_items": 38286,
+        "Healthy_items": 20638,
+        "Precentage_of_Healthy_Items": 53.9,
+        "Avg_Price_Healthy": 21.02,
+        "Avg_Price_Unhealthy": 26.46,
+        "Category_Counts": {
+            "Main": 14866,
+            "Meal": 1994,
+            "Side": 5009,
+            "Dessert": 4554,
+            "Drink": 11863
+        },
+        "Category_Healthy_Counts": {
+            "Main": 10572,
+            "Meal": 905,
+            "Side": 2339,
+            "Dessert": 956,
+            "Drink": 5866
+        }
+    },
+    {
+        "NeighborhoodName": "Yasmin",
+        "District": "Yasmin",
+        "Total_Count": 1326,
+        "Healthy_Count": 746,
+        "Percentage": 56.26,
+        "All_items": 41525,
+        "Healthy_items": 22519,
+        "Precentage_of_Healthy_Items": 54.23,
+        "Avg_Price_Healthy": 24.91,
+        "Avg_Price_Unhealthy": 31.2,
+        "Category_Counts": {
+            "Main": 16832,
+            "Meal": 2057,
+            "Side": 6981,
+            "Dessert": 5638,
+            "Drink": 10017
+        },
+        "Category_Healthy_Counts": {
+            "Main": 11982,
+            "Meal": 848,
+            "Side": 3205,
+            "Dessert": 1220,
+            "Drink": 5264
+        }
+    },
+    {
+        "NeighborhoodName": "Zahrah",
+        "District": "Zahrah",
+        "Total_Count": 769,
+        "Healthy_Count": 423,
+        "Percentage": 55.01,
+        "All_items": 31162,
+        "Healthy_items": 16873,
+        "Precentage_of_Healthy_Items": 54.15,
+        "Avg_Price_Healthy": 19.64,
+        "Avg_Price_Unhealthy": 24.82,
+        "Category_Counts": {
+            "Main": 11484,
+            "Meal": 1588,
+            "Side": 4046,
+            "Dessert": 3595,
+            "Drink": 10449
+        },
+        "Category_Healthy_Counts": {
+            "Main": 8243,
+            "Meal": 696,
+            "Side": 2050,
+            "Dessert": 785,
+            "Drink": 5099
+        }
+    }
+]

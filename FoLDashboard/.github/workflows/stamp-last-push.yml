@@ -1,0 +1,26 @@
+name: Stamp last push date
+on:
+  push:
+    branches: [ main ]   # adjust your default branch
+  workflow_dispatch:
+
+jobs:
+  stamp:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Get last commit date
+        id: stamp
+        run: |
+          LAST_DATE=$(git log -1 --format=%cI)
+          echo "last_date=$LAST_DATE" >> $GITHUB_OUTPUT
+      - name: Write to JSON
+        run: |
+          echo "{\"last_push\": \"${{ steps.stamp.outputs.last_date }}\"}" > public/last-push.json
+      - name: Commit file
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add public/last-push.json
+          git commit -m "Update last-push.json [skip ci]" || echo "No changes"
+          git push

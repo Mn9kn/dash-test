@@ -1,0 +1,585 @@
+/**
+ * health Dashboard CSS - UPDATED VERSION
+ * 
+ * Improved layout with fixes for:
+ * - Card width and visibility issues
+ * - Consistent year range selectors across income cards
+ * - Removed labels under chart points/bars
+ * - Enhanced styling to match EntrepreneurshipCard
+ * - Updated KPI summary row to support 6 items
+ */
+
+/* Dashboard Container */
+.health-dashboard-wrapper {
+    width: 100%;
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0 16px;
+    box-sizing: border-box;
+    overflow-x: visible;
+    background-color: #f8f9fa;
+  }
+  
+  /* Dashboard Header - simplified without controls */
+  .health-dashboard-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff;
+    border-radius: 12px;
+    padding: 16px 20px;
+    margin-bottom: 16px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+    border: 1px solid #e0e0e0;
+  }
+  
+  .health-dashboard-title h1 {
+    color: #004990;
+    margin: 0;
+    font-size: 22px;
+    font-weight: 600;
+  }
+  
+  .health-dashboard-subtitle {
+    color: #7a8599;
+    font-size: 14px;
+    margin-top: 4px;
+  }
+  
+  /* KPI Summary Row - Updated to support 6 items */
+  .health-kpi-summary-row {
+    display: grid;
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+    gap: 12px;
+    margin-bottom: 16px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  .health-kpi-summary-item {
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #e0e0e0;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    height: auto;
+    min-height: 100px;
+    box-sizing: border-box;
+  }
+  
+  .health-kpi-summary-item:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 3px 6px rgba(0,0,0,0.08);
+  }
+
+  .health-info-tooltip {
+    cursor: help;
+    color: #8a8a8a;
+    position: absolute;
+    top: 14px;
+    right: 16px;
+    font-size: 16px;
+    opacity: 0.7;
+    transition: opacity 0.15s;
+    background: none;
+    border: none;
+    padding: 0;
+    border-radius: 0;
+    margin-left: 12px;
+  }
+  .health-info-tooltip:hover {
+    opacity: 1;
+  }
+  
+  .health-kpi-title {
+    font-size: 13px;
+    color: #555;
+    margin-bottom: 4px;
+    text-align: center;
+  }
+  
+  .health-kpi-value {
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 4px;
+  }
+  
+  .health-kpi-change {
+    font-size: 13px;
+    display: flex;
+    align-items: center;
+    gap: 2px;
+  }
+  
+  .health-kpi-change.positive {
+    color: #48A842;
+  }
+  
+  .health-kpi-change.negative {
+    color: #ED174C;
+  }
+  
+  .health-change-arrow {
+    font-size: 14px;
+  }
+  
+  .health-change-arrow.up {
+    color: #48A842;
+  }
+  
+  .health-change-arrow.down {
+    color: #48A842;
+  }
+  
+  /* Dashboard Content & Rows */
+  .health-dashboard-content {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  /* Improved grid layout with consistent card sizing */
+  .health-dashboard-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 16px;
+    margin-bottom: 16px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  /* Card wrapper with fixed dimensions */
+  .health-card-wrapper {
+    height: 440px; /* Increased height to fit all content */
+    width: 100%;
+    max-width: 100%; /* Prevent expansion beyond container */
+    box-sizing: border-box;
+    margin-bottom: 16px;
+  }
+  
+  /* Consistent card styling */
+  .health-dashboard-card {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+    border: 1px solid #e0e0e0;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+    overflow: hidden;
+  }
+  
+  .health-dashboard-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 3px 6px rgba(0,0,0,0.08);
+  }
+  
+  .health-dashboard-content-expanded {
+    width: 100%;
+  }
+  
+  .health-dashboard-card-expanded {
+    width: 100%;
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    border: 1px solid #e0e0e0;
+    min-height: 600px;
+    margin-bottom: 14px;
+  }
+  
+  /* Dashboard Footer */
+  .health-dashboard-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px 16px;
+    background-color: #fff;
+    border-radius: 8px;
+    border: 1px solid #e0e0e0;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+    font-size: 11px;
+    color: #888;
+  }
+  
+  .health-last-updated {
+    flex: 1;
+  }
+
+  .health-dashboard-footer {
+    padding: 15px;
+    background-color: white;
+    border-top: 1px solid #e0e0e0;
+    text-align: center;
+    color: #666;
+    font-size: 12px;
+  }
+  
+  .health-last-updated {
+    max-width: 1400px;
+    margin: 0 auto;
+  }
+  
+  .health-footer-logo {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+  
+  .health-footer-logo img {
+    height: 30px;
+    width: auto;
+  }
+
+
+  .tooltip-wrapper {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    z-index: 1;
+  }
+  
+  .tooltip-text {
+    visibility: hidden;
+    opacity: 0;
+    background-color: #D3D3D3;
+    color: #000;
+    text-align: left;
+    padding: 6px 10px;
+    border-radius: 6px;
+    position: absolute;
+    top: 125%;
+    left: 50%;
+    width: 100%;
+    transform: translateX(-50%);
+    white-space: revert-layer;           /* ✅ No wrapping */
+    font-size: 12px;
+    z-index: 1000;
+    transition: opacity 0.15s ease-in-out;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+  }
+  
+  /* Show tooltip on hover or focus */
+  .tooltip-wrapper:hover .tooltip-text,
+  .tooltip-wrapper:focus .tooltip-text {
+    visibility: visible;
+    opacity: 1;
+  }
+  
+  /* Card Components */
+  .health-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 12px;
+    padding: 0 0 8px 0;
+  }
+  
+  .health-title-section {
+    flex: 1;
+  }
+  
+  .health-card-title {
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    color: #004990;
+    margin: 0 0 3px 0;
+    font-weight: 600;
+  }
+  
+  .health-info-tooltip {
+    cursor: help;
+    color: #8a8a8a;
+    margin-left: 6px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .health-card-subtitle {
+    font-size: 11px;
+    color: #7a8599;
+  }
+  
+  /* CONSISTENT: Metrics container styling */
+  .health-metrics-container {
+    background-color: #f8f9fc;
+    border-radius: 8px;
+    padding: 10px 12px;
+    margin-bottom: 12px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+    width: 100%;
+  }
+  
+  .health-metric-divider {
+    width: 1px;
+    height: 30px;
+    background-color: #e0e0e0;
+  }
+  
+  /* FIXED: Chart container with proper dimensions */
+  .health-chart-container {
+    width: 100%;
+    height: 180px;
+    position: relative;
+    margin-bottom: 12px;
+    box-sizing: border-box;
+  }
+  
+  /* CONSISTENT: Year tabs styling */
+  .health-year-tabs {
+    display: flex;
+    gap: 4px;
+    margin-bottom: 10px;
+    flex-wrap: wrap;
+    width: 100%;
+    box-sizing: border-box;
+    overflow-x: auto;
+    padding-bottom: 5px;
+  }
+  
+  .health-year-tab {
+    padding: 4px 10px;
+    border-radius: 4px;
+    font-size: 11px;
+    background-color: #f5f5f5;
+    border: none;
+    color: #555;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    white-space: nowrap;
+  }
+  
+  .health-year-tab:hover {
+    background-color: #eaeaea;
+  }
+  
+  .health-year-tab.active {
+    background-color: #4056F4;
+    color: white;
+  }
+  
+  /* CONSISTENT: Year Range Slider */
+  .health-year-range-container {
+    margin-top: auto;
+    padding-top: 10px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  .health-year-range-text {
+    font-size: 11px;
+    color: #666;
+    margin-bottom: 5px;
+    font-weight: 500;
+    text-align: center;
+  }
+  
+  .health-year-range-slider {
+    position: relative;
+    width: 100%;
+    height: 40px;
+    margin-bottom: 8px;
+    box-sizing: border-box;
+  }
+  
+  .health-year-range-track {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    height: 4px;
+    width: 100%;
+    background-color: #e3f0fa; /* light shadow blue */
+    border-radius: 2px;
+  }
+  
+  .health-year-range-track-active {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    height: 4px;
+    background-color: rgba(80, 140, 200, 0.25); /* lighter blue for active range */
+    border-radius: 2px;
+  }
+  
+  .health-year-range-handle {
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 16px;
+    height: 16px;
+    background-color: white;
+    border: 2px solid #4056F4;
+    border-radius: 50%;
+    z-index: 10;
+    cursor: pointer;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  }
+  
+  .health-year-range-label {
+    position: absolute;
+    top: -20px;
+    transform: translateX(-50%);
+    font-size: 10px;
+    color: #666;
+    white-space: nowrap;
+  }
+  
+  .health-year-range-marks {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0 8px;
+    box-sizing: border-box;
+  }
+  
+  .health-year-range-mark {
+    position: relative;
+    font-size: 10px;
+    color: #888;
+    text-align: center;
+    white-space: nowrap;
+  }
+  
+  .health-year-range-mark::before {
+    content: '';
+    position: absolute;
+    top: -12px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 1px;
+    height: 6px;
+    background-color: #ccc;
+  }
+  
+  /* CONSISTENT: Range selector buttons */
+  .health-range-selector {
+    display: flex;
+    gap: 5px;
+    margin-top: 10px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  .health-range-button {
+    padding: 4px 8px;
+    font-size: 11px;
+    border-radius: 4px;
+    background-color: #f5f5f5;
+    border: 1px solid #e0e0e0;
+    color: #555;
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+  
+  .health-range-button:hover {
+    background-color: #eaeaea;
+  }
+  
+  .health-range-button.active {
+    background-color: #4056F4;
+    color: white;
+    border-color: #4056F4;
+  }
+  
+  /* Data indicators */
+  .health-metric-item {
+    text-align: center;
+    padding: 5px;
+    min-width: 70px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .health-metric-label {
+    font-size: 11px;
+    margin-bottom: 4px;
+    white-space: nowrap;
+    color: #555;
+  }
+  
+  .health-metric-value {
+    font-size: 16px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 24px;
+  }
+  
+  .health-metric-value.reduction {
+    color: #48A842;
+  }
+  
+  .health-metric-value.deaths {
+    color: #ED174C;
+  }
+  
+  /* Loading Animation */
+  .health-loading-spinner {
+    width: 36px;
+    height: 36px;
+    border: 3px solid #f3f3f3;
+    border-top: 3px solid #4056F4;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+  }
+  
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+  
+  /* Responsive Design - Updated for 6-column layout */
+  @media (max-width: 1200px) {
+    .health-dashboard-grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+    
+    .health-kpi-summary-row {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .health-dashboard-grid {
+      grid-template-columns: repeat(1, 1fr);
+    }
+    
+    .health-kpi-summary-row {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+    
+    .health-card-wrapper {
+      height: auto;
+      min-height: 400px;
+    }
+    
+    .health-dashboard-header {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 12px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .health-kpi-summary-row {
+      grid-template-columns: repeat(1, minmax(0, 1fr));
+    }
+  }
